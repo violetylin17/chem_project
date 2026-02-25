@@ -1,0 +1,72 @@
+[
+    {
+        "index": 0,
+        "CID": "BACE_1",
+        "smiles": "O1CC[C@@H](NC(=O)[C@@H](Cc2cc3cc(ccc3nc2N)-c2ccccc2C)C)CC1(C)C",
+        "pIC50": 9.1549015,
+        "description": "The molecule contains a pyrrolidine ring that is fused with an isoquinoline ring system which may be responsible for its binding to the P-gp protein."
+    },
+    {
+        "index": 1,
+        "CID": "BACE_2",
+        "smiles": "Fc1cc(cc(F)c1)C[C@H](NC(=O)[C@@H](N1CC[C@](NC(=O)C)(CC(C)C)C1=O)CCc1ccccc1)[C@H](O)[C@@H]1[NH2+]C[C@H](OCCC)C1",
+        "pIC50": 8.8538723,
+        "description": "The molecule contains a pyridine ring which is connected to an indolyl moiety via three bonds, two of them being sp3-hybridized C-atoms while one bond is sp2 hybridized N-atom."
+    },
+    {
+        "index": 2,
+        "CID": "BACE_3",
+        "smiles": "S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1ccccc1)C",
+        "pIC50": 8.6989698,
+        "description": "The molecule contains a central octahedrally coordinated CoII atom surrounded by four carbonyl oxygen atoms of one ligand each as well as two N-donor ligands which are further involved in bridging to form a dimeric complex."
+    },
+    {
+        "index": 3,
+        "CID": "BACE_4",
+        "smiles": "S1(=O)(=O)C[C@@H](Cc2cc(O[C@H](COCC)C(F)(F)F)c(N)c(F)c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1",
+        "pIC50": 8.6989698,
+        "description": "The molecule contains two chiral centers with different stereochemistry at C-4 and C-1'.\nThe compound is a prodrug of a compound that inhibits tumor growth by selectively killing cancer cells while leaving healthy ones unharmed; it was discovered using the NCI-60 cell line panel."
+    },
+    {
+        "index": 4,
+        "CID": "BACE_5",
+        "smiles": "S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)C(F)(F)F)Cc1ccccc1)C",
+        "pIC50": 8.6989698,
+        "description": "The molecule contains a 4-azaoctane ring that is fused to an imidazolium salt moiety through two azomethine bonds. The presence of the three basic nitrogen atoms is essential for the biological activity as well as the ability to form hydrogen bonding with protein receptors. This is also confirmed by the pKa values determined experimentally using molecular dynamics simulations."
+    },
+    {
+        "index": 5,
+        "CID": "BACE_6",
+        "smiles": "S1(=O)C[C@@H](Cc2cc(OC(C(F)(F)F)C(F)(F)F)c(N)c(F)c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1",
+        "pIC50": 8.6989698,
+        "description": "The molecule contains two stereocenters; an α-methyl group at C4, a hydroxy group on C9, as well as one fluorine atom at each of these sites."
+    },
+    {
+        "index": 6,
+        "CID": "BACE_7",
+        "smiles": "S(=O)(=O)(CCCCC)C[C@@H](NC(=O)c1cccnc1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)CC)Cc1cc(F)cc(F)c1",
+        "pIC50": 8.6989698,
+        "description": "The molecule contains an amine group which is capable of forming hydrogen bonds with amino acids such as serine or glutamine residues found on target proteins to inhibit enzyme activity."
+    },
+    {
+        "index": 7,
+        "CID": "BACE_8",
+        "smiles": "Fc1c2c(ccc1)[C@@]([NH+]=C2N)(C=1C=C(C)C(=O)N(C=1)CC)c1cc(ccc1)-c1cc(cnc1)C#CC",
+        "pIC50": 8.6126099,
+        "description": "The molecule contains a carbazole ring system with four nitrogen atoms linked to an aromatic cycle via three sp3 C–H bonds. It has two oxygen atom attached at positions ortho or para relative to this carbon skeleton. In addition it has one sulfur atom attached on position meta of phenyl group. There is also one methyl substituent at N9 position."
+    },
+    {
+        "index": 8,
+        "CID": "BACE_9",
+        "smiles": "O1c2c(cc(cc2)CC)[C@@H]([NH2+]C[C@@H](O)[C@H]2NC(=O)C=3C=CC(=O)N(CCCCc4cc(C2)ccc4)C=3)CC12CCC2",
+        "pIC50": 8.6020603,
+        "description": "The molecule contains a pyrrolidine ring fused to an aromatic moiety linked through three bonds with the pyridine nucleus of the drug."
+    },
+    {
+        "index": 9,
+        "CID": "BACE_10",
+        "smiles": "O=C1N(CCCC1)C(C)(C)[C@@H]1C[C@@H](CCC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)C(C)C)Cc1ccccc1",
+        "pIC50": 8.6020603,
+        "description": "The molecule contains a cyclohexane ring fused to an aromatic system containing three rings joined together by two C-C bonds. It is not clear whether this compound is present as a racemate or enantiomerically pure; however it was reported that it was synthesized with high purity using enantioselective synthesis methods which would make it difficult for the compound to be chiral at this point of its synthesis due to the presence of the chiral center on the cyclohexene ring. The compound has been shown to have activity against a variety of different cancer cell lines including prostate, colorectal, liver, lung, breast, pancreatic, ovarian, melanoma,"
+    }
+]

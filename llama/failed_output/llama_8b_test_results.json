@@ -1,0 +1,62 @@
+[
+    {
+        "index": 0,
+        "CID": "BACE_1",
+        "smiles": "O1CC[C@@H](NC(=O)[C@@H](Cc2cc3cc(ccc3nc2N)-c2ccccc2C)C)CC1(C)C",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor exhibits moderate to high drug-likeness, with a molecular weight (MW) of 431.57 and a calculated octanol-water partition coefficient (AlogP) of 4.40, suggesting good oral bioavailability and the potential for good brain penetration. Its high potency (pIC50 9.15) and selectivity for BACE-1 make it a promising candidate for the treatment of Alzheimer's disease"
+    },
+    {
+        "index": 1,
+        "CID": "BACE_2",
+        "smiles": "Fc1cc(cc(F)c1)C[C@H](NC(=O)[C@@H](N1CC[C@](NC(=O)C)(CC(C)C)C1=O)CCc1ccccc1)[C@H](O)[C@@H]1[NH2+]C[C@H](OCCC)C1",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor exhibits good drug-likeness due to its moderate molecular weight (657.81 g/mol) and relatively low lipophilicity (AlogP 2.64), which are favorable for oral bioavailability and pharmacokinetic properties. Its high potency (pIC50 8.85) suggests a promising biological potential as a potential therapeutic agent for the treatment of Alzheimer's disease, but further optimization of its pharmacokinetic"
+    },
+    {
+        "index": 2,
+        "CID": "BACE_3",
+        "smiles": "S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1ccccc1)C",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor exhibits moderate drug-likeness, with a molecular weight (MW) of 591.74 g/mol and a calculated octanol-water partition coefficient (AlogP) of 2.55, suggesting reasonable lipophilicity and solubility. However, its high potency (pIC50 8.70) and relatively low MW suggest that it may have good biological potential as a potential therapeutic agent for treating Alzheimer's"
+    },
+    {
+        "index": 3,
+        "CID": "BACE_4",
+        "smiles": "S1(=O)(=O)C[C@@H](Cc2cc(O[C@H](COCC)C(F)(F)F)c(N)c(F)c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor exhibits moderate to high drug-likeness, with a favorable balance of molecular weight, lipophilicity, and solubility. Its relatively high potency (pIC50 8.70) suggests a promising biological potential as a potential therapeutic agent for the treatment of Alzheimer's disease, although further optimization and characterization are necessary to fully evaluate its in vivo efficacy and safety."
+    },
+    {
+        "index": 4,
+        "CID": "BACE_5",
+        "smiles": "S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)C(F)(F)F)Cc1ccccc1)C",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor appears to be a relatively potent and drug-like molecule, with a favorable balance of lipophilicity (AlogP 3.51) and molecular weight (MW 629.71), suggesting potential oral bioavailability and CNS penetration. However, its high lipophilicity may also raise concerns about metabolic stability and potential for off-target effects, which would need to be carefully evaluated in further preclinical studies."
+    },
+    {
+        "index": 5,
+        "CID": "BACE_6",
+        "smiles": "S1(=O)C[C@@H](Cc2cc(OC(C(F)(F)F)C(F)(F)F)c(N)c(F)c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1",
+        "description": "This BACE-1 inhibitor exhibits moderate drug-likeness, with a molecular weight within a reasonable range and a moderate lipophilicity (AlogP 3.86), but its high molecular weight and polar surface area may pose challenges for oral bioavailability. Despite these limitations, its high potency (pIC50 8.70) suggests that it has significant biological potential as a potential therapeutic agent for Alzheimer's disease, and further optimization may be warranted to improve its pharmacokinetic properties."
+    },
+    {
+        "index": 6,
+        "CID": "BACE_7",
+        "smiles": "S(=O)(=O)(CCCCC)C[C@@H](NC(=O)c1cccnc1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)CC)Cc1cc(F)cc(F)c1",
+        "description": "This BACE-1 inhibitor exhibits moderate drug-likeness, with a molecular weight of 645.78 and an AlogP value of 3.20, suggesting it may have suitable pharmacokinetic properties for oral bioavailability. However, its high pIC50 value of 8.70 indicates a relatively weak inhibitory potency, which may limit its biological potential as a therapeutic agent for Alzheimer's disease or other BACE-1-related disorders."
+    },
+    {
+        "index": 7,
+        "CID": "BACE_8",
+        "smiles": "Fc1c2c(ccc1)[C@@]([NH+]=C2N)(C=1C=C(C)C(=O)N(C=1)CC)c1cc(ccc1)-c1cc(cnc1)C#CC",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor exhibits good drug-likeness due to its moderate molecular weight (MW 477.55) and acceptable lipophilicity (AlogP 3.71), suggesting it may have suitable pharmacokinetic properties. However, its high potency (pIC50 8.61) and potential for metabolic instability may be offset by its relatively high molecular weight, which could impact its oral bioavailability and overall biological potential."
+    },
+    {
+        "index": 8,
+        "CID": "BACE_9",
+        "smiles": "O1c2c(cc(cc2)CC)[C@@H]([NH2+]C[C@@H](O)[C@H]2NC(=O)C=3C=CC(=O)N(CCCCc4cc(C2)ccc4)C=3)CC12CCC2",
+        "description": "This BACE-1 inhibitor exhibits moderate to high drug-likeness, with a relatively high molecular weight and lipophilicity, which may impact its pharmacokinetic properties and potential for oral bioavailability. Despite this, its potency (pIC50 8.60) suggests a strong biological potential for inhibiting BACE-1, a key target for the treatment of Alzheimer's disease, and further optimization may be warranted to improve its pharmacological profile."
+    },
+    {
+        "index": 9,
+        "CID": "BACE_10",
+        "smiles": "O=C1N(CCCC1)C(C)(C)[C@@H]1C[C@@H](CCC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)C(C)C)Cc1ccccc1",
+        "description": "Based on the provided SMILES and properties, this BACE-1 inhibitor exhibits moderate drug-likeness due to its relatively high molecular weight (MW 562.81) and lipophilicity (AlogP 4.40), which may impact its pharmacokinetic properties and bioavailability. However, its potent BACE-1 inhibition (pIC50 8.60) suggests a strong potential for biological activity, particularly in the context of Alzheimer's disease research, where BACE-"
+    }
+]

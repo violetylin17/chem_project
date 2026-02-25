@@ -1,0 +1,72 @@
+Sender: LSF System <lsfadmin@node04.hs.cluster>
+Subject: Job 17840: <submit_llama.s> in cluster <AUHPCGen3> Done
+
+Job <submit_llama.s> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Feb 16 03:50:37 2026
+Job was executed on host(s) <node04.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Feb 16 03:50:37 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project> was used as the working directory.
+Started at Mon Feb 16 03:50:37 2026
+Terminated at Mon Feb 16 03:50:38 2026
+Results reported at Mon Feb 16 03:50:38 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#PBS -N llama_parallel_4
+#PBS -q normal
+#PBS -l nodes=1:ppn=128
+#PBS -l mem=180gb
+#PBS -l walltime=06:00:00
+#PBS -o logs/llama_all.log
+#PBS -e logs/llama_all.err
+
+cd $PBS_O_WORKDIR
+mkdir -p logs
+mkdir -p output
+
+source /home/yl9210a-hpc/chem_project/.venv/bin/activate
+
+# 同時啟動 4 個任務，分別傳入 ID 1, 2, 3, 4
+# 使用 & 符號讓它們在背景同時跑
+# wait 指令會確保所有任務跑完才結束 PBS 任務
+
+echo "[*] Starting 4-way parallel inference..."
+
+python run_llama_parallel.py 1 4 > logs/part1.log 2>&1 &
+python run_llama_parallel.py 2 4 > logs/part2.log 2>&1 &
+python run_llama_parallel.py 3 4 > logs/part3.log 2>&1 &
+python run_llama_parallel.py 4 4 > logs/part4.log 2>&1 &
+
+# 等待所有背景任務完成
+wait
+
+echo "[*] All 4 parts finished!"
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.10 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   5 sec.
+    Turnaround time :                            1 sec.
+
+The output (if any) follows:
+
+[*] Starting 4-way parallel inference...
+[*] All 4 parts finished!
+
+
+PS:
+
+Read file <submit_llama.s.e> for stderr output of this job.
+
