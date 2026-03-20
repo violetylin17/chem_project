@@ -1,0 +1,79 @@
+Sender: LSF System <lsfadmin@node06.hs.cluster>
+Subject: Job 18857: <run_embedding_> in cluster <AUHPCGen3> Done
+
+Job <run_embedding_> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 09:21:09 2026
+Job was executed on host(s) <node06.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 09:21:09 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/combine_structual_texual/combine_regression> was used as the working directory.
+Started at Mon Mar 16 09:21:09 2026
+Terminated at Mon Mar 16 09:22:04 2026
+Results reported at Mon Mar 16 09:22:04 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#SBATCH --job-name=combine_regression
+#SBATCH --cpus-per-task=32
+#SBATCH --mem=32G
+#SBATCH --time=04:00:00
+#SBATCH --output=output.log
+
+python combine_embedding_analysis.py
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5984.51 sec.
+    Max Memory :                                 1688 MB
+    Average Memory :                             1320.40 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                389
+    Run time :                                   56 sec.
+    Turnaround time :                            55 sec.
+
+The output (if any) follows:
+
+
+=== Ridge ===
+R2:   0.5565 ± 0.0463
+RMSE: 0.8902 ± 0.0480
+MAE:  0.6775 ± 0.0412
+
+=== RandomForest ===
+R2:   0.5774 ± 0.0282
+RMSE: 0.8703 ± 0.0466
+MAE:  0.6922 ± 0.0348
+
+=== XGBoost ===
+R2:   0.6501 ± 0.0310
+RMSE: 0.7920 ± 0.0539
+MAE:  0.6271 ± 0.0374
+
+=== Ridge ===
+R2:   0.5565 ± 0.0463
+RMSE: 0.8902 ± 0.0480
+MAE:  0.6775 ± 0.0412
+
+=== RandomForest ===
+R2:   0.5774 ± 0.0282
+RMSE: 0.8703 ± 0.0466
+MAE:  0.6922 ± 0.0348
+
+=== XGBoost ===
+R2:   0.6501 ± 0.0310
+RMSE: 0.7920 ± 0.0539
+MAE:  0.6271 ± 0.0374
+
+
+PS:
+
+Read file <run_embedding_.e> for stderr output of this job.
+

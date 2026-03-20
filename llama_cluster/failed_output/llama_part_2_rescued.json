@@ -1,0 +1,1892 @@
+[
+    {
+        "CID": "BACE_789",
+        "pIC50": 7.0634861,
+        "description": "The provided SMILES string represents a complex heterocyclic compound with multiple aromatic rings and amines, which is likely a potent inhibitor of a specific protein target. The reported pIC50 value of 7.06 indicates that the compound has a high affinity for its target, with an estimated IC"
+    },
+    {
+        "CID": "BACE_792",
+        "pIC50": 7.0604806,
+        "description": "The compound with the given SMILES notation is a fluorinated, heterocyclic compound with a nitrogen-containing core structure, likely exhibiting properties of a kinase inhibitor. The reported pIC50 value of 7.06 suggests that this compound has a relatively high affinity for its target protein, with a predicted"
+    },
+    {
+        "CID": "BACE_794",
+        "pIC50": 7.0555172,
+        "description": "The provided SMILES string corresponds to a compound with a molecular structure that includes a heterocyclic core with a pyridine ring, a phenyl ring, and a cyclohexyl ring, which is likely a bioactive molecule with potential therapeutic applications. The pIC50 value of 7"
+    },
+    {
+        "CID": "BACE_795",
+        "pIC50": 7.0506101,
+        "description": "Based on the provided SMILES notation, this molecule appears to be a synthetic compound with a complex structure, featuring a fluorinated benzene ring, a carbamate group, and a quinuclidine-like structure. The pIC50 value of 7.05 suggests that this compound has moderate potency"
+    },
+    {
+        "CID": "BACE_796",
+        "pIC50": 7.0500002,
+        "description": "The provided SMILES notation represents a chemical structure that appears to be a fused heterocyclic compound, likely a benzodiazepine or a related compound. The pIC50 value of 7.05 indicates a relatively potent inhibition of a target protein, with an estimated IC50 value of approximately"
+    },
+    {
+        "CID": "BACE_798",
+        "pIC50": 7.0457573,
+        "description": "This compound has a complex structure with multiple aromatic rings and a nitroguanidine core, suggesting that it is a heterocyclic compound with potential biological activity. The pIC50 value of 7.05 indicates that this compound is a relatively potent inhibitor, with an IC50 value of approximately"
+    },
+    {
+        "CID": "BACE_799",
+        "pIC50": 7.0457573,
+        "description": "The SMILES notation represents a complex molecular structure with multiple aromatic rings and heterocyclic moieties. The presence of a pIC50 value of 7.05 suggests that this compound is a relatively potent inhibitor, with a dissociation constant (Ki) of approximately 1.4 nM ("
+    },
+    {
+        "CID": "BACE_800",
+        "pIC50": 7.0457573,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic compound with a fused ring system containing a fluorinated phenol moiety and a nitrogen-containing ring. The presence of a pIC50 value of 7.05 suggests that this compound has a relatively high affinity for a"
+    },
+    {
+        "CID": "BACE_801",
+        "pIC50": 7.0457573,
+        "description": "Based on the provided SMILES notation, I can identify the molecular structure as a complex compound containing multiple functional groups, including a fluorinated aromatic ring, an imidazole moiety, and a long aliphatic chain. The presence of a fluorine atom (F) on the aromatic ring and"
+    },
+    {
+        "CID": "BACE_802",
+        "pIC50": 7.0457573,
+        "description": "The provided SMILES string corresponds to a chemical compound with a complex structure, featuring a benzimidazole core with a substituted phenyl ring, a carbonyl group, and a cyclohexane ring. The compound has a relatively high potency with a pIC50 value of 7.05"
+    },
+    {
+        "CID": "BACE_803",
+        "pIC50": 7.0457573,
+        "description": "Based on the provided SMILES string, I would describe the compound as a substituted benzimidazole derivative with a trifluoromethylphenyl group attached to the benzimidazole core. The presence of the trifluoromethyl group and the nitrogens in the benzimidazole ring suggest"
+    },
+    {
+        "CID": "BACE_804",
+        "pIC50": 7.0457573,
+        "description": "The provided SMILES string represents a complex molecular structure, which appears to be a heterocyclic compound containing multiple aromatic rings and nitrogen-containing moieties. The pIC50 value of 7.05 indicates a relatively high potency of the compound, suggesting it may be a potent inhibitor or agonist of"
+    },
+    {
+        "CID": "BACE_807",
+        "pIC50": 7.0409584,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic molecule with a nitrogen-containing ring system, which is consistent with a biologically active molecule. The pIC50 value of 7.04 indicates that this compound has a relatively high potency, with an estimated IC50 value"
+    },
+    {
+        "CID": "BACE_808",
+        "pIC50": 7.04,
+        "description": "The provided SMILES string represents a complex heterocyclic compound with multiple aromatic rings and nitrogen-containing functional groups. The pIC50 value of 7.04 suggests that this compound has moderate to high potency as a biological activity, likely as an enzyme inhibitor or receptor agonist, but further analysis is"
+    },
+    {
+        "CID": "BACE_810",
+        "pIC50": 7.031517,
+        "description": "This compound is a sulfonamide derivative with a complex molecular structure, featuring a central sulfonamide group linked to a substituted benzene ring and a long alkyl chain. The compound has a reported pIC50 value of 7.03, indicating a moderate to high potency as an inhibitor of"
+    },
+    {
+        "CID": "BACE_811",
+        "pIC50": 7.0268722,
+        "description": "Based on the provided SMILES notation, I can analyze the molecular structure and infer some properties of the compound.\n\nThe compound appears to be a sulfonamide derivative, with a sulfonic acid group (-SO2-) attached to a phenyl ring, which is further substituted with various functional groups, including"
+    },
+    {
+        "CID": "BACE_812",
+        "pIC50": 7.0177288,
+        "description": "The provided SMILES string corresponds to a compound with a complex molecular structure, featuring a fluorinated aromatic ring, an amide group, and a quaternary ammonium cation. The compound's pIC50 value of 7.02 suggests that it has a relatively high potency as an inhibitor"
+    },
+    {
+        "CID": "BACE_813",
+        "pIC50": 7.0177288,
+        "description": "The SMILES notation provided corresponds to a synthetic compound that appears to be a derivative of a known pharmacophore. The pIC50 value of 7.02 indicates that this compound has a moderate affinity for its target, likely a kinase or other enzyme, with an estimated IC50 value of approximately"
+    },
+    {
+        "CID": "BACE_814",
+        "pIC50": 7.0132284,
+        "description": "The given SMILES string represents a compound with a complex molecular structure, featuring a heterocyclic core with a benzimidazole ring and a substituted pyridine ring. The compound has a pIC50 value of 7.01, indicating a moderate potency as an inhibitor, with an IC50"
+    },
+    {
+        "CID": "BACE_815",
+        "pIC50": 7.0132284,
+        "description": "This compound is a heterocyclic aromatic molecule with a complex structure featuring multiple rings and nitrogen-containing functional groups. The pIC50 value of 7.01 indicates that the compound has moderate potency as an inhibitor, with an IC50 value of approximately 1.26 μM, suggesting potential utility"
+    },
+    {
+        "CID": "BACE_816",
+        "pIC50": 7.004365,
+        "description": "The given SMILES string corresponds to a small molecule with a fluorine-containing aromatic core and a heterocyclic amine moiety, suggesting potential biological activity. The pIC50 value of 7.00 indicates that this compound has a moderate to high potency as an inhibitor, with an IC50"
+    },
+    {
+        "CID": "BACE_817",
+        "pIC50": 7.0,
+        "description": "This compound is a potent inhibitor of a target, with a pIC50 value of 7.00, indicating a dissociation constant of 10^-7 M, which is a relatively high affinity. The structure suggests that it is a heterocyclic compound with a fused ring system and a basic"
+    },
+    {
+        "CID": "BACE_818",
+        "pIC50": 7.0,
+        "description": "The provided SMILES string represents a complex molecular structure, which I'll break down for you:\n\n* The molecule has a phenyl ring (Fc1cc...) with a fluorine atom attached to one of the carbon atoms.\n* The phenyl ring is connected to a longer chain containing an amine"
+    },
+    {
+        "CID": "BACE_819",
+        "pIC50": 7.0,
+        "description": "The given compound has a SMILES notation that suggests it is a benzimidazole derivative with a fused aromatic ring system, a carbonyl group, and multiple nitrogen-containing functionalities. The pIC50 value of 7.00 indicates that the compound has a moderate inhibitory activity, which is a"
+    },
+    {
+        "CID": "BACE_820",
+        "pIC50": 7.0,
+        "description": "Based on the provided SMILES notation, this compound appears to be a nitrogen-containing heterocyclic molecule, likely a quinazoline or quinoline derivative, with a central core featuring a carbonyl group and multiple aromatic rings. The pIC50 value of 7.00 suggests that"
+    },
+    {
+        "CID": "BACE_821",
+        "pIC50": 7.0,
+        "description": "The provided SMILES notation represents a compound with a complex structure, featuring a fused aromatic ring system, a tertiary amine, and a quaternary ammonium group. With a pIC50 value of 7.00, this compound exhibits moderate potency, indicating it may have potential as a lead"
+    },
+    {
+        "CID": "BACE_822",
+        "pIC50": 7.0,
+        "description": "The SMILES notation represents a molecule with a complex structure, featuring a biphenyl core with a phenol and an amide functional group, as well as a trifluoromethyl group. The pIC50 value of 7.00 indicates that this compound has a moderate potency, likely"
+    },
+    {
+        "CID": "BACE_823",
+        "pIC50": 7.0,
+        "description": "The provided SMILES string represents a heterocyclic compound with a central core consisting of a pyrazine ring fused to a quinoline ring. This compound has a pIC50 value of 7.00, which indicates a moderate potency as an inhibitor, with an IC50 value of"
+    },
+    {
+        "CID": "BACE_824",
+        "pIC50": 7.0,
+        "description": "The SMILES notation FC1(F)CN2C(=NC1)C(N=C2N)(c1cc(ccc1)-c1cncnc1)c1ccc(OC)cc1 represents a heterocyclic compound containing a fluorine atom, which is likely a key feature"
+    },
+    {
+        "CID": "BACE_825",
+        "pIC50": 7.0,
+        "description": "Based on the provided SMILES notation, the compound appears to be a sulfonamide derivative with a complex structure featuring multiple aromatic rings, a sulfone group, and a quaternary ammonium salt. The pIC50 value of 7.00 suggests that this compound exhibits moderate potency as an"
+    },
+    {
+        "CID": "BACE_826",
+        "pIC50": 6.9829664,
+        "description": "This compound has a complex molecular structure with a core scaffold featuring a substituted aromatic ring, a nitrogen-containing side chain, and a series of alkyl chains. The pIC50 value of 6.98 suggests that the compound has moderate potency as an inhibitor, with a predicted IC50 value of approximately"
+    },
+    {
+        "CID": "BACE_827",
+        "pIC50": 6.9746943,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic molecule with a benzimidazole scaffold, featuring various substituents including halogens, amides, and amines. The reported pIC50 value of 6.97 suggests that this compound exhibits moderate to"
+    },
+    {
+        "CID": "BACE_828",
+        "pIC50": 6.9706163,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic compound with a fused ring system containing nitrogen, oxygen, and carbon atoms. The presence of a pIC50 value of 6.97 suggests that this compound has moderate to high potency as an inhibitor or agonist"
+    },
+    {
+        "CID": "BACE_829",
+        "pIC50": 6.9699998,
+        "description": "Based on the provided SMILES notation and pIC50 value, the compound appears to be a tricyclic amine with a quinoline and pyrimidine core, which is a common scaffold for medicinal compounds. The relatively high pIC50 value of 6.97 suggests that the"
+    },
+    {
+        "CID": "BACE_830",
+        "pIC50": 6.9665761,
+        "description": "Based on the provided SMILES notation, this compound appears to be a fluorinated heterocyclic compound with a nitrogen-containing core structure, likely a kinase inhibitor given the presence of a nitrogen-containing heterocycle and a carbonyl group. The pIC50 value of 6.97 indicates that"
+    },
+    {
+        "CID": "BACE_832",
+        "pIC50": 6.9586072,
+        "description": "Based on the provided SMILES notation, I can infer that the compound is a halogenated, heteroaromatic molecule with a benzimidazole core and a series of alkyl and aryl substituents. The presence of a chloro substituent on the benzene ring, a phen"
+    },
+    {
+        "CID": "BACE_835",
+        "pIC50": 6.9586072,
+        "description": "Based on the provided SMILES notation, I can identify the molecular structure as a complex compound with a central scaffold featuring a fused-ring system, multiple aromatic rings, and a series of nitrogen and oxygen-containing functional groups. The compound's potency is indicated by a pIC50 value of 6.96"
+    },
+    {
+        "CID": "BACE_838",
+        "pIC50": 6.9469213,
+        "description": "Based on the SMILES notation, this compound appears to be a pyrazole-based molecule with a substituted aromatic ring and a carbonyl group, suggesting it may be a potential inhibitor of a biological target. The pIC50 value of 6.95 indicates that this compound has a relatively high"
+    },
+    {
+        "CID": "BACE_839",
+        "pIC50": 6.9208188,
+        "description": "Based on the provided SMILES notation, this molecule appears to be a synthetic compound with a complex structure, featuring multiple functional groups such as sulfonamide, amide, and ether linkages, as well as an imidazolium ring. The pIC50 value of 6.92"
+    },
+    {
+        "CID": "BACE_840",
+        "pIC50": 6.9208188,
+        "description": "This compound appears to be a potent inhibitor of a target protein, with a pIC50 value of 6.92, indicating an IC50 value of approximately 7.08 nM. The structure suggests that it is a complex molecule with a combination of aromatic and aliphatic components, potentially"
+    },
+    {
+        "CID": "BACE_841",
+        "pIC50": 6.9208188,
+        "description": "The provided SMILES string represents a complex molecular structure, which appears to be a heterocyclic compound with a substituted phenyl ring and an amide group. The pIC50 value of 6.92 suggests that this compound has a moderate level of potency, with a predicted IC50 value of"
+    },
+    {
+        "CID": "BACE_842",
+        "pIC50": 6.9208188,
+        "description": "This compound is a heterocyclic aromatic molecule with a complex structure, featuring a combination of benzene, pyridine, and pyrazine rings, as well as a carbonyl group and an amine group. The pIC50 value of 6.92 suggests that the compound has"
+    },
+    {
+        "CID": "BACE_843",
+        "pIC50": 6.9208188,
+        "description": "This compound has a complex molecular structure with multiple amide and ester linkages, suggesting a potential role as a protease inhibitor or a kinase inhibitor. The pIC50 value of 6.92 indicates a moderate to high affinity for a specific biological target, although the exact target and mechanism of"
+    },
+    {
+        "CID": "BACE_845",
+        "pIC50": 6.9208188,
+        "description": "The provided SMILES notation represents a complex organic molecule, likely a small molecule inhibitor or agonist. The pIC50 value of 6.92 indicates that this molecule has a relatively high potency, with an IC50 value of approximately 1.45 nM (10^(-pIC50"
+    },
+    {
+        "CID": "BACE_847",
+        "pIC50": 6.9208188,
+        "description": "The provided SMILES string corresponds to a tricyclic compound with a central quinoline core, substituted with a benzene ring, a pyridine ring, and various functional groups, including fluorine and amide moieties. The compound's pIC50 value of 6.92"
+    },
+    {
+        "CID": "BACE_848",
+        "pIC50": 6.9208188,
+        "description": "The given SMILES notation represents a complex small molecule with a nitrobenzimidazole core and a trifluoromethyl-substituted phenyl ring. The compound's pIC50 value of 6.92 indicates a moderate to high potency against a target of interest, suggesting potential as"
+    },
+    {
+        "CID": "BACE_849",
+        "pIC50": 6.9208188,
+        "description": "The provided SMILES string represents a small molecule compound with a complex structure, which includes a sulfonamide group (S(=O)(=O)), an aromatic ring system with a fluorine atom, and an amino group with a quaternary ammonium ion. The reported pIC50 value of"
+    },
+    {
+        "CID": "BACE_850",
+        "pIC50": 6.9208188,
+        "description": "Based on the SMILES notation, this compound appears to be a tricyclic molecule with a central benzimidazole core, a substituted phenyl ring, and a fluorinated benzene ring. The presence of a carbonyl group and a nitrogen-containing heterocycle suggests that this compound may"
+    },
+    {
+        "CID": "BACE_851",
+        "pIC50": 6.9100947,
+        "description": "Based on the provided SMILES notation, I can identify the compound as a benzimidazole derivative with a fused phenyl ring and various functional groups, including amine, amide, and ether moieties. The reported pIC50 value of 6.91 suggests that this compound exhibits moderate to"
+    },
+    {
+        "CID": "BACE_853",
+        "pIC50": 6.9065785,
+        "description": "Based on the SMILES notation, this compound appears to be a fused-ring aromatic heterocycle, likely a derivative of a quinoline or a related scaffold, with a potential pharmacophore for binding to a biological target. The relatively low pIC50 value of 6.91 suggests that"
+    },
+    {
+        "CID": "BACE_855",
+        "pIC50": 6.8860569,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic molecule containing a pyrazole ring system with a phenyl ring attached, as well as a thiophene or furan ring (based on the \"c1nccc(c1)C#CC\" sub"
+    },
+    {
+        "CID": "BACE_856",
+        "pIC50": 6.8860569,
+        "description": "Based on the provided SMILES notation, the compound appears to be a substituted benzimidazole derivative, with a fused benzene ring and a nitrogen-containing heterocyclic ring. The relatively low pIC50 value of 6.89 suggests that the compound has moderate to weak affinity for its target protein"
+    },
+    {
+        "CID": "BACE_857",
+        "pIC50": 6.8860564,
+        "description": "This compound is a potent inhibitor of a target protein, with a pIC50 value of 6.89, indicating a high affinity for the protein. The structure, as represented by the SMILES notation, suggests that it is a complex molecule with a number of functional groups, including an aromatic ring"
+    },
+    {
+        "CID": "BACE_858",
+        "pIC50": 6.8860564,
+        "description": "Based on the provided SMILES notation, I can infer that this compound is a substituted triazine derivative, which is a common scaffold in medicinal chemistry for designing ligands for various biological targets. The pIC50 value of 6.89 suggests that this compound has moderate potency, likely in the range"
+    },
+    {
+        "CID": "BACE_859",
+        "pIC50": 6.8860564,
+        "description": "The given SMILES string represents a small molecule with a complex structure, featuring a central azaindole core (c1ccncc1) linked to a naphthyl group (c1cc(ccc1)-c1ccccc1) and a pyridine ring (C"
+    },
+    {
+        "CID": "BACE_861",
+        "pIC50": 6.8860564,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide derivative with a complex molecular structure featuring multiple aromatic rings, heterocycles, and functional groups, including fluorine and amine moieties. The pIC50 value of 6.89 suggests that this compound exhibits"
+    },
+    {
+        "CID": "BACE_862",
+        "pIC50": 6.8860564,
+        "description": "This compound has a complex structure with multiple functional groups, including sulfonate and amine moieties, which suggests it may be a potent inhibitor of a biological target. The relatively high pIC50 value of 6.89 indicates that the compound has moderate to high affinity for its target, although"
+    },
+    {
+        "CID": "BACE_863",
+        "pIC50": 6.8860564,
+        "description": "The compound has a complex molecular structure, featuring a sulfonamide group (S(=O)(=O)) and a quaternary ammonium group ([NH2+]). The relatively low pIC50 value of 6.89 suggests that the compound has moderate potency as an inhibitor, likely requiring"
+    },
+    {
+        "CID": "BACE_864",
+        "pIC50": 6.8860564,
+        "description": "The provided SMILES string represents a complex organic molecule with a molecular structure that includes a chlorinated benzene ring, a phenol ring, and a nitrogen-containing heterocycle. The pIC50 value of 6.89 suggests that this molecule is a moderately potent inhibitor of a target protein,"
+    },
+    {
+        "CID": "BACE_865",
+        "pIC50": 6.8827286,
+        "description": "The provided SMILES string corresponds to a compound with a complex molecular structure, featuring multiple aromatic rings, a carbonyl group, and a quaternary ammonium center. The reported pIC50 value of 6.88 indicates that the compound has a relatively high potency, with an IC50"
+    },
+    {
+        "CID": "BACE_866",
+        "pIC50": 6.8728952,
+        "description": "This compound has a complex molecular structure with multiple aromatic rings and functional groups, including fluorine and nitrogen-containing moieties. The presence of a pIC50 value of 6.87 suggests that the compound has moderate to high potency as an inhibitor, with a predicted IC50 value of approximately 4"
+    },
+    {
+        "CID": "BACE_867",
+        "pIC50": 6.8696661,
+        "description": "The provided SMILES notation represents a complex molecular structure with a core scaffold featuring a fluorine-substituted indole and a pyridine ring, along with various substituents, including a methoxy group and a nitrogated double bond. The pIC50 value of 6.87"
+    },
+    {
+        "CID": "BACE_868",
+        "pIC50": 6.8632793,
+        "description": "This compound is a potent inhibitor of a target protein, as evidenced by its picomolar IC50 value (pIC50 6.86). The molecular structure suggests that the compound is a heterocyclic aromatic compound with a fluorinated benzene ring, an amide group, and a nit"
+    },
+    {
+        "CID": "BACE_869",
+        "pIC50": 6.8632793,
+        "description": "This compound has a SMILES notation that suggests it is a heterocyclic molecule with a benzimidazole core, a substituted aniline group, and a carbonyl-containing side chain. The pIC50 value of 6.86 indicates that this compound has a moderate level of potency, with"
+    },
+    {
+        "CID": "BACE_871",
+        "pIC50": 6.8538718,
+        "description": "The provided SMILES string represents a complex molecular structure, which I'll break down:\n\nThe molecule appears to be a hybrid of a phenyl ring (Fc1cc(cc(F)c1)) attached to a cyclohexane ring (CCC(OC)CC1) and a quaternary ammon"
+    },
+    {
+        "CID": "BACE_872",
+        "pIC50": 6.8538718,
+        "description": "This compound has a complex molecular structure, featuring a sulfonamide group and several aromatic rings, including a fluorinated benzene ring. The reported pIC50 value of 6.85 indicates a moderate to strong binding affinity, suggesting that the compound may exhibit potent biological activity, although further investigation is"
+    },
+    {
+        "CID": "BACE_873",
+        "pIC50": 6.8538718,
+        "description": "The provided SMILES string corresponds to a pyrazine-based compound, likely a heterocyclic aromatic compound, which is a common scaffold in medicinal chemistry. The pIC50 value of 6.85 indicates that the compound has a moderate to high affinity for its target, with a corresponding IC50"
+    },
+    {
+        "CID": "BACE_875",
+        "pIC50": 6.8538718,
+        "description": "Based on the provided SMILES notation, the compound appears to be a fused polycyclic aromatic compound with a quinoline core and a pyridine ring. The presence of the nitro group (-NO2) and the carbonyl group (-C=O) suggests that the compound may"
+    },
+    {
+        "CID": "BACE_876",
+        "pIC50": 6.8538718,
+        "description": "This compound is a potent inhibitor, with a pIC50 value of 6.85, indicating a strong affinity for its target. The structure suggests it is a kinase inhibitor, with a scaffold featuring a fluorinated benzene ring and a core that includes amide functionalities, likely interacting with the ATP"
+    },
+    {
+        "CID": "BACE_877",
+        "pIC50": 6.8538718,
+        "description": "This compound is a synthetic molecule with a complex structure, featuring a benzimidazole core, a sulfone group, and an amine-containing side chain. Its moderate pIC50 value of 6.85 suggests that it has some level of activity against a specific biological target, but its potency is"
+    },
+    {
+        "CID": "BACE_878",
+        "pIC50": 6.8416376,
+        "description": "This compound has a complex molecular structure with multiple rings and functional groups, including an azabenzene core, a carbamate moiety, and a series of alkyl and aryl substituents. The pIC50 value of 6.84 suggests that this compound has moderate to high potency"
+    },
+    {
+        "CID": "BACE_879",
+        "pIC50": 6.8386321,
+        "description": "The SMILES notation Fc1cc(cnc1)-c1cc2c(OC(CC23N=C(N)N(C)C3=O)(C)C)cc1 corresponds to a chemical structure that appears to be a substituted benzimidazole derivative, likely a potential inhibitor of"
+    },
+    {
+        "CID": "BACE_880",
+        "pIC50": 6.8239088,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide-containing small molecule with a complex molecular structure. The reported pIC50 value of 6.82 suggests that this compound exhibits moderate potency as an inhibitor, with an estimated IC50 value of approximately 1.12"
+    },
+    {
+        "CID": "BACE_881",
+        "pIC50": 6.8239088,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic molecule with a combination of aromatic and aliphatic rings, featuring a cyano group, a nitro group, and a sulfonamide-like motif. The relatively low pIC50 value of 6.82 suggests"
+    },
+    {
+        "CID": "BACE_882",
+        "pIC50": 6.8239088,
+        "description": "The given SMILES string represents a complex heterocyclic compound, likely a synthetic compound designed for biological activity. The pIC50 value of 6.82 indicates that this compound has a relatively high potency, likely exhibiting significant biological activity at a concentration of approximately 0.00085 μM ("
+    },
+    {
+        "CID": "BACE_883",
+        "pIC50": 6.8239088,
+        "description": "This compound has a molecular structure that suggests it is a nitrogen-containing compound, likely a small molecule inhibitor, with a large number of carbon and hydrogen atoms forming a complex ring system. The pIC50 value of 6.82 indicates that this compound has moderate to high potency as an inhibitor, with"
+    },
+    {
+        "CID": "BACE_884",
+        "pIC50": 6.8239088,
+        "description": "Based on the provided SMILES notation, the compound appears to be a sulfonamide derivative, likely a nonsteroidal anti-inflammatory drug (NSAID) or a related compound. The relatively high pIC50 value of 6.82 suggests that this compound has moderate to low potency as an"
+    },
+    {
+        "CID": "BACE_885",
+        "pIC50": 6.8239088,
+        "description": "This compound has a molecular structure that suggests it is a type of sulfonamide, a class of compounds known for their antimicrobial activity. The pIC50 value of 6.82 indicates that the compound has moderate potency, with an estimated IC50 value of approximately 3.9 x"
+    },
+    {
+        "CID": "BACE_887",
+        "pIC50": 6.821023,
+        "description": "The provided SMILES string corresponds to a small molecule with a pyridine and urea functional groups, which is likely a pharmacologically active compound. The pIC50 value of 6.82 indicates that the compound has a moderate to strong affinity for its target, suggesting it may be a potent"
+    },
+    {
+        "CID": "BACE_888",
+        "pIC50": 6.821023,
+        "description": "The given SMILES string represents a small molecule with a complex structure, featuring a combination of aromatic and heterocyclic rings, as well as functional groups such as amides and esters. The pIC50 value of 6.82 indicates that this molecule has a relatively high potency, with an"
+    },
+    {
+        "CID": "BACE_889",
+        "pIC50": 6.7958798,
+        "description": "Based on the SMILES notation, this compound appears to be a small molecule with a complex structure, featuring a fluorinated aromatic ring, a heterocyclic ring, and an amide linkage. The pIC50 value of 6.80 indicates that this compound has moderate potency as an inhibitor,"
+    },
+    {
+        "CID": "BACE_890",
+        "pIC50": 6.7958798,
+        "description": "This compound is a potent inhibitor of a target enzyme, with a pIC50 value of 6.80, indicating a dissociation constant (Ki) of approximately 2.48 nM. The structure suggests a lipophilic core with a basic amine and a carboxylic acid"
+    },
+    {
+        "CID": "BACE_892",
+        "pIC50": 6.7958798,
+        "description": "This compound, represented by the SMILES string, is a potential therapeutic agent with a calculated pIC50 value of 6.80, indicating moderate potency against its target. The structure suggests a complex molecular architecture, with a fused aromatic ring system, an amide functional group, and a quatern"
+    },
+    {
+        "CID": "BACE_894",
+        "pIC50": 6.7695513,
+        "description": "The provided SMILES string represents a complex organic molecule, likely a small molecule inhibitor, with a 6.77 pIC50 value, indicating a relatively potent inhibitory activity. A 2-sentence summary of this molecule would be:\n\nThis compound appears to be a multi-targeted molecule with a"
+    },
+    {
+        "CID": "BACE_895",
+        "pIC50": 6.7695513,
+        "description": "The provided SMILES string represents a compound with a complex structure featuring multiple rings and functional groups, including a fluorinated aromatic ring, a tertiary amine, and a quaternary ammonium group. The pIC50 value of 6.77 indicates that this compound has a moderate potency as an"
+    },
+    {
+        "CID": "BACE_896",
+        "pIC50": 6.7695513,
+        "description": "The provided SMILES string corresponds to a compound with a tricyclic structure featuring a fluorinated cyclohexane ring, an aromatic ring with two ortho-substituted phenyl groups, and a urea moiety. The pIC50 value of 6.77 indicates that this"
+    },
+    {
+        "CID": "BACE_897",
+        "pIC50": 6.7695513,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic molecule with a complex structure, featuring multiple aromatic rings, nitrogen and oxygen heteroatoms, and a quaternary ammonium group. The presence of a relatively high pIC50 value of 6.77 suggests that"
+    },
+    {
+        "CID": "BACE_898",
+        "pIC50": 6.7695513,
+        "description": "Based on the provided SMILES notation, the molecule appears to be a bisindole compound with a central nitrogen atom and two indole rings connected through a carbon atom. The presence of a pIC50 value of 6.77 suggests that this molecule has moderate affinity for a target protein, likely"
+    },
+    {
+        "CID": "BACE_899",
+        "pIC50": 6.7695513,
+        "description": "The provided SMILES string represents a complex molecule with a molecular structure that includes a central core with multiple aromatic rings and a variety of functional groups, including amides, imines, and nitrogens. This molecule has a calculated pIC50 value of 6.77, indicating a moderate to"
+    },
+    {
+        "CID": "BACE_900",
+        "pIC50": 6.7619538,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide-based small molecule with a complex structure, featuring multiple aromatic rings, heterocycles, and functional groups. The pIC50 value of 6.76 indicates that the compound has moderate potency, suggesting it may have"
+    },
+    {
+        "CID": "BACE_901",
+        "pIC50": 6.7594509,
+        "description": "The compound in question is a small molecule with a complex structure, featuring a benzimidazole core with a side chain containing an amine group, a carbonyl group, and a fluorinated aromatic ring. The presence of a positive charge on the amine group and a pIC50 value of"
+    },
+    {
+        "CID": "BACE_902",
+        "pIC50": 6.7520266,
+        "description": "The provided SMILES string represents a complex molecule with a molecular structure that includes multiple rings, including a pyrimidine ring, a phenyl ring, and a cyclohexane ring. The presence of an amine group and a carbonyl group within the structure suggests that this molecule may be"
+    },
+    {
+        "CID": "BACE_906",
+        "pIC50": 6.7447276,
+        "description": "Based on the provided SMILES notation, the compound appears to be a heterocyclic molecule with a pyrazinone core and a phenyl ring attached to it, which is a common scaffold for various pharmacologically active compounds.\n\nThe pIC50 value of 6.74 indicates that the compound"
+    },
+    {
+        "CID": "BACE_908",
+        "pIC50": 6.7212462,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including sulfonamide, amide, and ether moieties, which are often associated with bioactive properties. The relatively high pIC50 value of 6.72 suggests that this compound has moderate to strong affinity for a target protein,"
+    },
+    {
+        "CID": "BACE_909",
+        "pIC50": 6.7212462,
+        "description": "Based on the SMILES notation, this compound appears to be a potent inhibitor of a protein target, with a pIC50 value of 6.72, indicating a high binding affinity (approximately 3.8 nM IC50). The presence of a fluorine atom (Fc) and a"
+    },
+    {
+        "CID": "BACE_910",
+        "pIC50": 6.7212462,
+        "description": "This compound is a synthetic small molecule with a complex structure, featuring a fluorinated phenyl ring and a bicyclic amine moiety. The pIC50 value of 6.72 indicates that the compound has moderate potency as an inhibitor of a target protein, with an estimated IC50 value"
+    },
+    {
+        "CID": "BACE_912",
+        "pIC50": 6.7212462,
+        "description": "Based on the provided SMILES notation, this compound appears to be a complex molecule with multiple functional groups, including aromatic rings, amide groups, and an iminium ion. The presence of a pIC50 value of 6.72 suggests that this compound is a relatively potent inhibitor, with a"
+    },
+    {
+        "CID": "BACE_913",
+        "pIC50": 6.7212462,
+        "description": "The given SMILES notation represents a compound with a sulfonamide moiety, a phenyl ring, and a heterocyclic ring, which is likely a bioactive molecule. The pIC50 value of 6.72 indicates that the compound has a moderate potency, with a IC50 value"
+    },
+    {
+        "CID": "BACE_915",
+        "pIC50": 6.6989698,
+        "description": "The given SMILES string represents a complex organic molecule, which is a derivative of a known biologically active compound. The presence of multiple fluorine atoms, a carbonyl group, and a nitrogen-containing ring suggests that this molecule may exhibit significant potency and selectivity as an inhibitor of a specific enzyme"
+    },
+    {
+        "CID": "BACE_916",
+        "pIC50": 6.6989698,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic molecule with a fused ring system, likely a quinazolinone or a similar scaffold. The presence of fluorine atoms (F) at positions 3 and 5 of the phenyl ring and the fluor"
+    },
+    {
+        "CID": "BACE_917",
+        "pIC50": 6.6989698,
+        "description": "This compound has a complex structure with multiple aromatic rings, including a pyridine ring (c3c[nH]cc3) and a phenyl ring (c2ccccc2). The presence of a sulfonamide group (S(=O)(=O)) and an amine group"
+    },
+    {
+        "CID": "BACE_918",
+        "pIC50": 6.6777806,
+        "description": "Based on the provided SMILES notation, I can infer that the compound is a heterocyclic molecule with a substituted indole core, featuring a fluorinated benzene ring and a tertiary amine group. The presence of a pIC50 value of 6.68 suggests that the compound has moderate"
+    },
+    {
+        "CID": "BACE_919",
+        "pIC50": 6.6777806,
+        "description": "This compound is a sulfonamide derivative with a complex structure, featuring a sulfonamide moiety linked to a polycyclic aromatic system and a substituted amine group. The relatively low pIC50 value of 6.68 suggests that this compound has moderate potency as an inhibitor of a target"
+    },
+    {
+        "CID": "BACE_920",
+        "pIC50": 6.6777806,
+        "description": "Based on the provided SMILES notation, this molecule appears to be a complex organic compound with multiple functional groups, including amines, amides, and an aromatic ring system. The presence of a pIC50 value of 6.68 suggests that this compound has moderate to high affinity for a"
+    },
+    {
+        "CID": "BACE_921",
+        "pIC50": 6.6777806,
+        "description": "The provided SMILES string represents a molecular structure with a core indole scaffold, featuring a 3-azabicyclo[3.1.0]hexane moiety, a pyridone ring, and a substituted benzene ring. The calculated pIC50 value of 6."
+    },
+    {
+        "CID": "BACE_927",
+        "pIC50": 6.6575775,
+        "description": "This compound has a complex molecular structure with a benzimidazole core, a chlorophenyl substituent, and a series of aliphatic and aromatic substituents, including a long alkyl chain and a phenol group. The reported pIC50 value of 6.66 indicates that"
+    },
+    {
+        "CID": "BACE_928",
+        "pIC50": 6.6575775,
+        "description": "Based on the provided SMILES notation, this compound appears to be a nitrogen-containing heterocyclic molecule with a quaternary ammonium group. The pIC50 value of 6.66 suggests that this compound has moderate potency, with an estimated IC50 value of approximately 4.5 n"
+    },
+    {
+        "CID": "BACE_929",
+        "pIC50": 6.6516953,
+        "description": "Based on the provided SMILES notation, this compound appears to be a complex organic molecule with a polycyclic structure, featuring a combination of aromatic and aliphatic rings, as well as functional groups such as amine, amide, and ether. The pIC50 value of 6."
+    },
+    {
+        "CID": "BACE_930",
+        "pIC50": 6.6497521,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including a chloro-substituted aromatic ring, an amide group, and a secondary amine group with an iminium ion. The reported pIC50 value of 6.65 suggests that this compound has moderate to high potency as"
+    },
+    {
+        "CID": "BACE_933",
+        "pIC50": 6.6382723,
+        "description": "Based on the provided SMILES notation and pIC50 value, the compound appears to be a potent inhibitor of a specific biological target, likely an enzyme involved in a metabolic or signaling pathway. The pIC50 value of 6.64 indicates a high affinity for the target, suggesting that the compound"
+    },
+    {
+        "CID": "BACE_934",
+        "pIC50": 6.6197886,
+        "description": "Based on the provided SMILES string, this compound appears to be a complex, fused-ring molecule with a nitrogen-containing core and several functional groups, including amides, esters, and a quaternary ammonium group. The high pIC50 value of 6.62 suggests that this compound"
+    },
+    {
+        "CID": "BACE_936",
+        "pIC50": 6.6197886,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide-based inhibitor with a complex molecular structure, featuring multiple aromatic rings, heterocycles, and functional groups such as sulfonamide, amide, and ester moieties.\n\nThe reported pIC50 value of"
+    },
+    {
+        "CID": "BACE_937",
+        "pIC50": 6.6197886,
+        "description": "Based on the provided SMILES string, this compound appears to be a phenylpyrimidine derivative with a central pyrimidine ring bearing a substituted amine group and a carbonyl group. The presence of a pIC50 value of 6.62 suggests that this compound has a moderate"
+    },
+    {
+        "CID": "BACE_938",
+        "pIC50": 6.6197886,
+        "description": "Based on the provided SMILES notation, the compound appears to be a complex polycyclic molecule with multiple aromatic rings, amine groups, and ester functionalities. The pIC50 value of 6.62 suggests that the compound has a moderate affinity for its target, likely a protein or enzyme"
+    },
+    {
+        "CID": "BACE_939",
+        "pIC50": 6.6197886,
+        "description": "This compound is a small molecule inhibitor with a relatively high potency (pIC50 6.62), indicating it has a strong binding affinity for its target. The structure suggests it is a complex molecule with multiple functional groups, including a sulfonamide, urea, and amide moieties,"
+    },
+    {
+        "CID": "BACE_940",
+        "pIC50": 6.6179829,
+        "description": "This compound is a potent inhibitor with a pIC50 value of 6.62, indicating a relatively high affinity for its target. The molecular structure suggests a complex molecular architecture with multiple aromatic rings, amines, and fluorine atoms, which are often used in medicinal chemistry to modulate potency"
+    },
+    {
+        "CID": "BACE_941",
+        "pIC50": 6.6161847,
+        "description": "Based on the provided SMILES notation, this compound appears to be a synthetic organic molecule with a complex structure featuring multiple functional groups, including sulfonamide, amide, and ether moieties. The reported pIC50 value of 6.62 suggests that this compound has moderate to high potency as"
+    },
+    {
+        "CID": "BACE_942",
+        "pIC50": 6.6143937,
+        "description": "Based on the provided SMILES notation, the compound appears to be a sulfonamide derivative with a substituted aromatic ring and a secondary amine group. The pIC50 value of 6.61 suggests that this compound has a moderate to high affinity for its target, likely a protein or enzyme,"
+    },
+    {
+        "CID": "BACE_943",
+        "pIC50": 6.6020598,
+        "description": "The given compound has a complex molecular structure with a core scaffold featuring a benzimidazole moiety linked to a substituted phenyl ring, a carbonyl group, and an amine functional group. The compound's pIC50 value of 6.60 suggests that it has a moderate to high"
+    },
+    {
+        "CID": "BACE_944",
+        "pIC50": 6.6020598,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic molecule with a combination of aromatic and heteroaromatic rings, including a pyridine ring and a benzene ring fused to a heterocyclic ring system. The presence of multiple nitrogen and oxygen atoms suggests that"
+    },
+    {
+        "CID": "BACE_945",
+        "pIC50": 6.6020598,
+        "description": "The given SMILES string represents a compound with a molecular structure that includes two fluorine atoms attached to a central carbon, a biphenyl moiety, and a pyridine ring attached to an imidazole ring with an amide group. The compound's pIC50 value of 6"
+    },
+    {
+        "CID": "BACE_946",
+        "pIC50": 6.6020598,
+        "description": "This compound has a complex molecular structure with multiple aromatic and aliphatic rings, as well as several functional groups such as amine, amide, and ether. The pIC50 value of 6.60 suggests that the compound has moderate potency as an inhibitor, with an IC50 value of"
+    },
+    {
+        "CID": "BACE_947",
+        "pIC50": 6.5968795,
+        "description": "This compound is a synthetic molecule with a complex structure, featuring a combination of aromatic and heterocyclic rings, as well as a cyano and imine functional group. The relatively low pIC50 value of 6.60 suggests that the compound exhibits moderate binding affinity to its target, likely a"
+    },
+    {
+        "CID": "BACE_948",
+        "pIC50": 6.5850267,
+        "description": "This compound is a complex molecule with a SMILES notation indicating a fluorinated benzene ring, a cyclohexane ring, and a number of functional groups including amides, amines, and ethers. The pIC50 value of 6.59 suggests that the compound has a moderate"
+    },
+    {
+        "CID": "BACE_949",
+        "pIC50": 6.5850267,
+        "description": "This compound has a molecular structure that suggests it is a benzimidazole-based inhibitor, with a central core featuring a benzimidazole ring connected to a pyridine ring and a fluorine atom. The presence of a trifluoromethyl group and a cyano group indicates that it may have"
+    },
+    {
+        "CID": "BACE_950",
+        "pIC50": 6.5850267,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic molecule with a chlorine atom and a number of aromatic rings, as well as a carbonyl group and an amide functional group. The pIC50 value of 6.59 suggests that this compound has moderate"
+    },
+    {
+        "CID": "BACE_951",
+        "pIC50": 6.5799999,
+        "description": "The given SMILES notation represents a complex molecular structure, which appears to be a tricyclic compound with multiple aromatic rings and amines. The pIC50 value of 6.58 indicates that this compound has a moderate affinity for its target, suggesting that it may exhibit some biological activity"
+    },
+    {
+        "CID": "BACE_952",
+        "pIC50": 6.5686364,
+        "description": "Based on the provided SMILES notation, this molecule appears to be a complex, heterocyclic compound with a diverse set of functional groups, including amine, amide, ether, and aromatic rings. The presence of a positively charged ammonium group (NH2+) and a relatively high pIC"
+    },
+    {
+        "CID": "BACE_953",
+        "pIC50": 6.5686364,
+        "description": "The provided SMILES notation represents a small molecule with a complex structure, featuring a combination of aromatic rings, heterocycles, and functional groups, including carbonyl and amide moieties. The reported pIC50 value of 6.57 suggests that this molecule has moderate to strong inhibitory"
+    },
+    {
+        "CID": "BACE_954",
+        "pIC50": 6.5686364,
+        "description": "This compound is a sulfonamide-based inhibitor, likely targeting an enzyme involved in metabolic pathways. The relatively high pIC50 value of 6.57 suggests that the compound has moderate to low potency, but may still exhibit useful biological activity in certain contexts."
+    },
+    {
+        "CID": "BACE_955",
+        "pIC50": 6.5686364,
+        "description": "This compound has a pIC50 value of 6.57, indicating that it is a relatively potent inhibitor, with an IC50 value of approximately 3.94 nM (since pIC50 = -log10(IC50)). The molecular structure features a sulfonamide and amine functional"
+    },
+    {
+        "CID": "BACE_956",
+        "pIC50": 6.5686364,
+        "description": "The given SMILES string represents a heterocyclic compound with a complex molecular structure, featuring multiple aromatic rings and nitrogen-containing heterocycles. The pIC50 value of 6.57 indicates that this compound has moderate potency as an inhibitor, with a dissociation constant (Ki) of approximately"
+    },
+    {
+        "CID": "BACE_957",
+        "pIC50": 6.5559554,
+        "description": "This compound has a relatively high potency as an inhibitor, with a pIC50 value of 6.56, indicating that it can effectively inhibit its target at a concentration of approximately 3.15 nM.\n\nThe structure of this compound suggests that it is a type of indole-based inhibitor,"
+    },
+    {
+        "CID": "BACE_958",
+        "pIC50": 6.5528421,
+        "description": "The given SMILES string represents a compound with a complex molecular structure, featuring a bicyclic ring system with multiple nitrogen and oxygen atoms, suggesting a potential for bioactivity as a kinase inhibitor or a compound with other biological targets. The pIC50 value of 6.55 indicates a moderate level"
+    },
+    {
+        "CID": "BACE_959",
+        "pIC50": 6.5376019,
+        "description": "This compound has a complex molecular structure, featuring a benzimidazole core with a substituted phenyl ring and a chloro-substituted benzene ring, as well as a thienyl group and a methoxy group. The pIC50 value of 6.54 indicates that this compound has"
+    },
+    {
+        "CID": "BACE_960",
+        "pIC50": 6.5376019,
+        "description": "Based on the provided SMILES notation, this compound appears to be a synthetic molecule with a complex structure, featuring multiple aromatic rings, amine, and sulfone groups. The pIC50 value of 6.54 suggests that this compound has moderate potency as an inhibitor, likely targeting a specific enzyme"
+    },
+    {
+        "CID": "BACE_964",
+        "pIC50": 6.5316525,
+        "description": "This compound, with the given SMILES notation, appears to be a fluorine-containing heterocyclic molecule with a fused ring system and an amide functional group. The pIC50 value of 6.53 indicates that this compound has moderate potency as an inhibitor, with a predicted IC50 value"
+    },
+    {
+        "CID": "BACE_965",
+        "pIC50": 6.5301781,
+        "description": "This compound is a potential inhibitor of a biological target, with a pIC50 value of 6.53 indicating a moderate affinity for the target. The presence of a chloro-substituted phenyl ring, a pyrimidine core, and an amidine functional group suggests that this compound may"
+    },
+    {
+        "CID": "BACE_966",
+        "pIC50": 6.5228786,
+        "description": "Based on the provided SMILES notation, this compound appears to be a small molecule with a heterocyclic scaffold, likely a benzimidazole or a related structure, decorated with various substituents that could influence its biological activity. The reported pIC50 value of 6.52 suggests that this"
+    },
+    {
+        "CID": "BACE_967",
+        "pIC50": 6.5228786,
+        "description": "This compound is a sulfonamide derivative with a complex molecular structure, featuring a substituted aromatic ring and multiple functional groups, including a sulfonamide moiety, an amine group, and several carbonyl groups. The compound exhibits potent activity, with a pIC50 value of 6."
+    },
+    {
+        "CID": "BACE_968",
+        "pIC50": 6.5228786,
+        "description": "The given compound has a complex molecular structure with a benzylamine moiety attached to a cyclohexane ring, which is further connected to a sulfonamide group. The presence of a bromo substituent on the aromatic ring and a carbonyl group on the sulfonamide suggests that"
+    },
+    {
+        "CID": "BACE_969",
+        "pIC50": 6.5086384,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including a sulfonamide, an amide, and an aromatic ring system. The pIC50 value of 6.51 indicates that this compound has moderate potency as an inhibitor, with an estimated IC50 value of approximately 1."
+    },
+    {
+        "CID": "BACE_971",
+        "pIC50": 6.5086384,
+        "description": "The provided SMILES string represents a complex organic molecule with a molecular structure that includes a chloro-substituted indole core, a phenyl ring, and a guanidine moiety. The reported pIC50 value of 6.51 suggests that this molecule exhibits moderate to high affinity for"
+    },
+    {
+        "CID": "BACE_972",
+        "pIC50": 6.5086384,
+        "description": "This compound is a bromo-substituted indole derivative with a tricyclic core structure, which is a common motif in many biologically active molecules. The pIC50 value of 6.51 indicates that this compound has moderate potency as an inhibitor, with an IC50 value of"
+    },
+    {
+        "CID": "BACE_974",
+        "pIC50": 6.4948502,
+        "description": "The provided SMILES string represents a compound with a complex molecular structure, featuring a fluorinated phenyl ring and a heterocyclic core with multiple nitrogen and oxygen atoms. The presence of a pIC50 value of 6.49 suggests that the compound exhibits potent biological activity, likely as an inhibitor"
+    },
+    {
+        "CID": "BACE_975",
+        "pIC50": 6.4948502,
+        "description": "Based on the provided SMILES notation, this compound appears to be a complex heterocyclic molecule with a mixture of aromatic and aliphatic components, including a central core with a quaternary ammonium ion, as well as several functional groups such as amides, esters, and halogens"
+    },
+    {
+        "CID": "BACE_976",
+        "pIC50": 6.4948502,
+        "description": "The given SMILES string represents a compound with a complex structure, which can be broken down into several key features. The presence of a nitroimidazole ring (n2nc(cc12)C) and a quinoline ring (c1cc(ccc1)-c1cncnc"
+    },
+    {
+        "CID": "BACE_978",
+        "pIC50": 6.4814858,
+        "description": "The provided SMILES string represents a complex molecule with a core structure featuring a benzene ring (c1ccc(cc1)) connected to a series of alkyl chains and functional groups, including a nitroguanidine moiety (N=C(N)N(C)C1=O) and"
+    },
+    {
+        "CID": "BACE_979",
+        "pIC50": 6.4814858,
+        "description": "The given SMILES string represents a complex small molecule with multiple functional groups, including a fluorine atom, a benzene ring, a nitrogen-containing heterocycle, and a triple bond. The pIC50 value of 6.48 indicates that this molecule has a relatively high potency as an inhibitor"
+    },
+    {
+        "CID": "BACE_980",
+        "pIC50": 6.4814858,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic aromatic compound with a pyridine ring and a quinoline ring fused together, with various substituents including an alkylamine group and a phenyl group. The pIC50 value of 6.48"
+    },
+    {
+        "CID": "BACE_981",
+        "pIC50": 6.4685211,
+        "description": "Based on the SMILES notation, this compound appears to be a complex molecule with multiple functional groups, including an aromatic ring system, an amine group, and a carboxamide group. The presence of a protonated amine group (NH2+) suggests that this compound may be a basic compound"
+    },
+    {
+        "CID": "BACE_983",
+        "pIC50": 6.4634414,
+        "description": "This compound is a sulfonamide derivative with a complex molecular structure, featuring a sulfonamide group linked to a heterocyclic ring and a series of aromatic and aliphatic substituents. The relatively low pIC50 value of 6.46 suggests that the compound has moderate potency as"
+    },
+    {
+        "CID": "BACE_984",
+        "pIC50": 6.4634414,
+        "description": "The provided SMILES notation corresponds to a compound with a complex molecular structure, featuring a sulfur-containing heterocycle connected to a benzene ring and a larger indole-like core. The compound exhibits a moderate potency (pIC50 6.46), indicating that it has some level of activity against"
+    },
+    {
+        "CID": "BACE_986",
+        "pIC50": 6.4584208,
+        "description": "Based on the provided SMILES string, this molecule appears to be a heterocyclic compound with a tricyclic core featuring a quinoline ring, a pyridone ring, and an imidazole ring. The presence of a carbonyl group and a nitro group suggests that"
+    },
+    {
+        "CID": "BACE_987",
+        "pIC50": 6.4559321,
+        "description": "Based on the provided SMILES notation, this molecule appears to be a synthetic compound with a complex structure, featuring multiple aromatic rings, heterocyclic moieties, and functional groups such as amides and amines. The presence of a pIC50 value of 6.46 suggests that this"
+    },
+    {
+        "CID": "BACE_988",
+        "pIC50": 6.4559321,
+        "description": "This compound is a synthetic molecule with a complex structure, featuring a number of aromatic rings and amide functionalities. The pIC50 value of 6.46 indicates that the compound has a moderate affinity for a biological target, likely a protein or enzyme, with an estimated IC50 value of approximately"
+    },
+    {
+        "CID": "BACE_989",
+        "pIC50": 6.4559321,
+        "description": "Based on the provided SMILES notation, I identify the compound as a sulfonamide-containing molecule with a substituted aromatic ring system and a basic amine group. The reported pIC50 value of 6.46 suggests that this compound has moderate affinity for a biological target, likely an enzyme or receptor"
+    },
+    {
+        "CID": "BACE_990",
+        "pIC50": 6.4534574,
+        "description": "This compound is a potent inhibitor, with a pIC50 value of 6.45, indicating a high affinity for its target. The structure suggests a benzimidazole or similar core, with a substituted aromatic ring, a fluorinated phenyl group, and a long alkyl chain, which may"
+    },
+    {
+        "CID": "BACE_991",
+        "pIC50": 6.4436975,
+        "description": "This compound is a potent inhibitor, with a pIC50 value of 6.44, indicating that it is capable of effectively binding to its target with a high degree of affinity. The presence of a sulfonamide group (S1(Oc2cc...)), a carbonyl group (="
+    },
+    {
+        "CID": "BACE_992",
+        "pIC50": 6.4317985,
+        "description": "This compound is a complex molecule with a fused ring system, featuring a phenyl ring connected to a cyclohexane ring, which is further connected to a nitrogen-containing side chain. The presence of fluorine atoms on the phenyl ring and the relatively low pIC50 value of 6."
+    },
+    {
+        "CID": "BACE_993",
+        "pIC50": 6.4317985,
+        "description": "This compound has a molecular structure that includes a sulfur atom bonded to a chain of carbon atoms, which in turn are connected to various functional groups, including amides, esters, and amines. The compound's pIC50 value of 6.43 indicates that it has a relatively high"
+    },
+    {
+        "CID": "BACE_994",
+        "pIC50": 6.4317985,
+        "description": "The given SMILES string represents a compound with a complex structure, featuring a central aromatic ring with a substituted amine group, an aliphatic tail, and several fluorinated aromatic rings. The reported pIC50 value of 6.43 suggests that this compound has moderate potency as an inhibitor,"
+    },
+    {
+        "CID": "BACE_995",
+        "pIC50": 6.4317985,
+        "description": "This compound is a potential inhibitor of a biological target, with a predicted inhibitory concentration (pIC50) of 6.43, indicating a moderate to high affinity for the target. The structure suggests that it is a type of sulfonamide or sulfone-containing compound, which are common motifs"
+    },
+    {
+        "CID": "BACE_996",
+        "pIC50": 6.4317985,
+        "description": "The SMILES string s1ccc(C2(N=C(N)N(C)C2=O)c2cc(ccc2)-c2cncnc2)c1C represents a pyrazolopyrimidine scaffold, a common motif in many biologically active compounds. The pIC50"
+    },
+    {
+        "CID": "BACE_999",
+        "pIC50": 6.4202166,
+        "description": "The provided SMILES string represents a compound with a complex molecular structure, featuring multiple aromatic rings, amide and carbonyl functional groups, and a long alkyl chain. The pIC50 value of 6.42 indicates that this compound has a moderate to high potency as an inhibitor, with"
+    },
+    {
+        "CID": "BACE_1001",
+        "pIC50": 6.4089355,
+        "description": "The given SMILES string represents a compound with a complex molecular structure, featuring a nitrogen-containing heterocycle, an aromatic ring system, and a carboxylate group. The compound's pIC50 value of 6.41 indicates a moderate potency, suggesting that it may exhibit some biological activity"
+    },
+    {
+        "CID": "BACE_1003",
+        "pIC50": 6.4089355,
+        "description": "The provided SMILES string corresponds to a compound with a tricyclic indole core, which is a common motif in medicinal chemistry for its potential biological activity. The relatively low pIC50 value of 6.41 indicates that this compound has moderate potency, suggesting that it may be a lead"
+    },
+    {
+        "CID": "BACE_1005",
+        "pIC50": 6.3979402,
+        "description": "This compound is a small molecule inhibitor with a predicted potency (pIC50) of 6.40, indicating a relatively high affinity for its target. The SMILES notation reveals a complex molecular structure with a variety of functional groups, including aromatic rings, heterocycles, and nitrogen-containing moieties"
+    },
+    {
+        "CID": "BACE_1006",
+        "pIC50": 6.3979402,
+        "description": "Based on the provided SMILES string, this molecule appears to be a sulfonamide compound with a complex structure featuring multiple aromatic rings, heterocycles, and functional groups, suggesting it may have been designed as a kinase inhibitor or other biologically active compound. The pIC50 value of 6"
+    },
+    {
+        "CID": "BACE_1007",
+        "pIC50": 6.3968558,
+        "description": "Based on the provided SMILES notation, this molecule appears to be a fused-ring heterocyclic compound with a benzimidazole core, a phenyl ring, and a pyridine ring. The presence of a nitro group and a carbonyl group suggests that this compound may have potential as"
+    },
+    {
+        "CID": "BACE_1008",
+        "pIC50": 6.3872161,
+        "description": "This compound has a complex molecular structure with a benzimidazole core, a phenyl ring with a chlorine substituent, and a naphthalene ring system with a hydroxyl group and a nitrobenzene ring. The pIC50 value of 6.39 indicates that this"
+    },
+    {
+        "CID": "BACE_1009",
+        "pIC50": 6.3872161,
+        "description": "This compound has a complex molecular structure with a benzimidazole core and a chloro-substituted phenyl ring, as well as a heteroaromatic ring system with a nitro and an oxygen-containing group. The pIC50 value of 6.39 indicates that this compound has a"
+    },
+    {
+        "CID": "BACE_1010",
+        "pIC50": 6.3872161,
+        "description": "The provided SMILES string represents a complex small molecule with a molecular structure that includes a fused ring system, a carbonyl group, and multiple functional groups, including an amine group with a positive charge. The pIC50 value of 6.39 indicates that this compound has moderate potency as"
+    },
+    {
+        "CID": "BACE_1011",
+        "pIC50": 6.3767509,
+        "description": "The provided SMILES string represents a complex molecular structure that appears to be a synthetic compound with a potential biological activity. The pIC50 value of 6.38 suggests that this compound has a moderate to high potency as an inhibitor or agonist of a biological target, with a corresponding IC50 value"
+    },
+    {
+        "CID": "BACE_1013",
+        "pIC50": 6.3655229,
+        "description": "The provided SMILES string represents a compound with a molecular structure that includes a heterocyclic ring system (indole or similar) and a carbonyl group, which is consistent with a variety of pharmacological activities. Given the pIC50 value of 6.37, this compound exhibits moderate"
+    },
+    {
+        "CID": "BACE_1014",
+        "pIC50": 6.3565474,
+        "description": "Based on the provided SMILES string, this compound appears to be a sulfonamide-containing molecule with a substituted aniline ring and a carbamate moiety. The pIC50 value of 6.36 suggests that this compound has moderate potency as an inhibitor, likely against a specific biological target such"
+    },
+    {
+        "CID": "BACE_1015",
+        "pIC50": 6.3506651,
+        "description": "This compound, with a SMILES notation of FC1(F)COC(=NC1(C)c1cc(NC(=O)c2nn(cc2)C)ccc1F)N, appears to be a fluorinated derivative of a benzimidazole or similar heterocyclic compound, which"
+    },
+    {
+        "CID": "BACE_1017",
+        "pIC50": 6.3467875,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic molecule containing a chlorinated aromatic ring, a sulfonamide group, and a nitrogen-containing heterocycle. The presence of a pIC50 value of 6.35 suggests that this compound is a relatively potent"
+    },
+    {
+        "CID": "BACE_1018",
+        "pIC50": 6.3467875,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including a chlorophenyl ring, a carbonyl group, an amide group, and an imidazole ring. The pIC50 value of 6.35 indicates that this compound has a relatively high potency as an inhibitor"
+    },
+    {
+        "CID": "BACE_1019",
+        "pIC50": 6.3419886,
+        "description": "The provided SMILES string represents a small molecule with a complex structure, featuring a benzimidazole core with an attached carbonyl group and a secondary amine. With a pIC50 value of 6.34, this compound is likely to exhibit moderate to high affinity for a biological target,"
+    },
+    {
+        "CID": "BACE_1020",
+        "pIC50": 6.3372421,
+        "description": "This compound is a complex heterocyclic molecule with a polycyclic aromatic core and several nitrogen-containing heterocycles, suggesting that it may be a small molecule inhibitor targeting a protein kinase or other enzyme involved in cancer cell proliferation or survival. The reported pIC50 value of 6.34 indicates"
+    },
+    {
+        "CID": "BACE_1021",
+        "pIC50": 6.3372421,
+        "description": "Based on the provided SMILES notation, the compound appears to be a highly substituted aromatic molecule with a central core featuring a pyridine ring (indicated by \"c1ccccc1\") and a long aliphatic chain. The presence of two fluorine atoms on adjacent aromatic rings suggests that"
+    },
+    {
+        "CID": "BACE_1022",
+        "pIC50": 6.3279023,
+        "description": "Based on the provided SMILES notation, this compound appears to be a substituted indole derivative with a fluorinated cyclohexyl group and a urea moiety. The pIC50 value of 6.33 indicates that this compound has a moderate affinity for its target, likely a receptor or"
+    },
+    {
+        "CID": "BACE_1023",
+        "pIC50": 6.3279023,
+        "description": "The given SMILES string represents a heterocyclic compound with a 2-chloro-3-trifluoromethylphenyl ring attached to a pyrazinone core. The compound has a moderate potency with a pIC50 value of 6.33, indicating it has some"
+    },
+    {
+        "CID": "BACE_1025",
+        "pIC50": 6.318759,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including sulfonamide, amide, and ether moieties. The pIC50 value of 6.32 suggests that the compound has moderate to strong affinity for its target, but the specific target and biological activity are not indicated by this"
+    },
+    {
+        "CID": "BACE_1026",
+        "pIC50": 6.318759,
+        "description": "The SMILES notation represents a complex molecule with a phenyl core (Fc1cc...) substituted with various functional groups, including fluorine, ether, and amine moieties. The presence of a protonated amine group ([NH2+]) and a carboxamide group (NC(=O"
+    },
+    {
+        "CID": "BACE_1027",
+        "pIC50": 6.309804,
+        "description": "The provided SMILES notation represents a chemical compound with a complex structure, featuring a heterocyclic ring system, multiple aromatic rings, and various functional groups. The compound has a reported pIC50 value of 6.31, which suggests a moderate to strong inhibitory activity against a specific target,"
+    },
+    {
+        "CID": "BACE_1029",
+        "pIC50": 6.309804,
+        "description": "This compound, represented by the SMILES notation Fc1ccc(cc1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cccnc1, is a potent inhibitor of a target protein, with a pIC50 value of 6."
+    },
+    {
+        "CID": "BACE_1031",
+        "pIC50": 6.3010302,
+        "description": "This compound is a potent inhibitor of a biological target, with a pIC50 value of 6.30, indicating a high affinity for the target. The structure suggests a complex molecule with multiple functional groups, including an aromatic ring, a carbonyl group, and a secondary amine, which"
+    },
+    {
+        "CID": "BACE_1032",
+        "pIC50": 6.3010302,
+        "description": "Based on the provided SMILES notation, this compound appears to be a polycyclic aromatic compound with a central core consisting of a benzimidazole or benzothiazole ring system, which is a common motif in many medicinal compounds. The relatively low pIC50 value of 6.30 suggests"
+    },
+    {
+        "CID": "BACE_1033",
+        "pIC50": 6.3010302,
+        "description": "The provided SMILES string corresponds to a compound with a central sulfonamide core, a benzimidazole ring, and a tricyclic aromatic system with a methoxy group. The pIC50 value of 6.30 indicates that the compound has a relatively high potency as an inhibitor,"
+    },
+    {
+        "CID": "BACE_1034",
+        "pIC50": 6.3001623,
+        "description": "Based on the provided SMILES notation, this compound appears to be a benzimidazole derivative, which is a common scaffold in medicinal chemistry. The presence of a nitro group (-NO2) and a carbonyl group (-C(=O)) suggests that this compound may have some level of potency"
+    },
+    {
+        "CID": "BACE_1036",
+        "pIC50": 6.2839966,
+        "description": "The provided SMILES notation corresponds to a chemical compound with a structure that includes a fluorinated benzene ring, a pyridine ring, and a heterocyclic ring with a carbonyl group. The compound's pIC50 value of 6.28 indicates a moderate potency as an inhibitor"
+    },
+    {
+        "CID": "BACE_1037",
+        "pIC50": 6.2757239,
+        "description": "Based on the provided SMILES notation, I can infer that this compound is a nitrogen-containing heterocycle with a sulfonamide group and a quaternary ammonium ion. The pIC50 value of 6.28 indicates that this compound has a moderate affinity for its target, with an"
+    },
+    {
+        "CID": "BACE_1038",
+        "pIC50": 6.2676063,
+        "description": "Based on the SMILES notation, this compound appears to be a fused heterocyclic system with a benzimidazole-like core, featuring multiple aromatic rings, a fluorine atom, and a carbonyl group. The presence of a high pIC50 value (6.27) suggests that this"
+    },
+    {
+        "CID": "BACE_1039",
+        "pIC50": 6.2596374,
+        "description": "Based on the provided SMILES notation, I can identify the compound as a nitrogen-containing heterocyclic molecule with several functional groups, including amine, amide, and carbonyl moieties. The pIC50 value of 6.26 suggests that this compound has moderate potency as an inhibitor"
+    },
+    {
+        "CID": "BACE_1040",
+        "pIC50": 6.2596374,
+        "description": "This compound has a complex structure with a halogenated aromatic ring, a nitro-substituted aromatic ring, and an aliphatic chain with a series of methylene groups. The presence of a nitro group and a halogen atom suggests that this compound may have some level of potency as"
+    },
+    {
+        "CID": "BACE_1041",
+        "pIC50": 6.2596374,
+        "description": "This compound is a nitrogen-containing heterocyclic molecule with a substituted benzene ring and a urea functionality, which is a common motif in many biologically active molecules. The presence of a chlorine atom and a carbonyl group suggests that the compound may have a certain level of lipophilicity and"
+    },
+    {
+        "CID": "BACE_1042",
+        "pIC50": 6.251812,
+        "description": "The given SMILES notation represents a compound with a complex molecular structure, featuring a benzene ring fused with a pyridine ring, a trifluoromethyl group, and an amide functional group. The pIC50 value of 6.25 indicates that this compound has a moderate to"
+    },
+    {
+        "CID": "BACE_1043",
+        "pIC50": 6.251812,
+        "description": "The given SMILES string represents a complex molecular structure, which appears to be a fused heterocyclic compound with multiple functional groups, including an amine, amide, and ether. The presence of a positively charged amine group ([NH2+]) suggests that this compound may be a cation"
+    },
+    {
+        "CID": "BACE_1044",
+        "pIC50": 6.251812,
+        "description": "This compound is a sulfonamide derivative with a complex molecular structure, featuring a sulfonamide group linked to a substituted aromatic ring and a tertiary amine group. With a pIC50 value of 6.25, this compound exhibits moderate potency as an inhibitor, suggesting potential utility in therapeutic applications"
+    },
+    {
+        "CID": "BACE_1045",
+        "pIC50": 6.251812,
+        "description": "The given SMILES notation represents a complex molecular structure that appears to be a heterocyclic compound with multiple aromatic rings and functional groups, including chloro, cyano, and carbonyl groups. The pIC50 value of 6.25 indicates that the compound has a moderate potency, with"
+    },
+    {
+        "CID": "BACE_1046",
+        "pIC50": 6.2441254,
+        "description": "Based on the provided SMILES string, I would identify the compound as a synthetic molecule with a complex structure featuring a heterocyclic core, aromatic rings, and functional groups such as amide, ester, and ether linkages. The presence of a chlorine atom and a negatively charged oxygen atom suggests"
+    },
+    {
+        "CID": "BACE_1047",
+        "pIC50": 6.2365718,
+        "description": "This compound has a molecular structure that suggests it is a modified amide, likely a kinase inhibitor, with a central scaffold featuring a cyclohexane ring and several aromatic rings. The presence of multiple nitrogen-containing groups and a positively charged ammonium group (indicated by the [NH2+] notation"
+    },
+    {
+        "CID": "BACE_1048",
+        "pIC50": 6.2365718,
+        "description": "Based on the provided SMILES notation, I can identify the molecular structure as a compound with a fused ring system, featuring a fluorinated aromatic ring, a piperidine ring, and an amine group. The compound's pIC50 value of 6.24 suggests that it exhibits moderate potency"
+    },
+    {
+        "CID": "BACE_1050",
+        "pIC50": 6.2291479,
+        "description": "Based on the provided SMILES notation and pIC50 value, I can analyze the compound as follows:\n\nThe compound appears to be a heterocyclic aromatic molecule with a substituted aniline and a pyridine ring, which suggests that it may have biological activity related to the inhibition of enzymes or receptors"
+    },
+    {
+        "CID": "BACE_1051",
+        "pIC50": 6.2291479,
+        "description": "The given SMILES string represents a complex molecular structure with a biphenyl core, a triazolyl substituent, and an aniline moiety. This compound has a relatively low pIC50 value of 6.23, suggesting that it has moderate potency as an inhibitor of a target"
+    },
+    {
+        "CID": "BACE_1052",
+        "pIC50": 6.2291479,
+        "description": "The given SMILES string represents a complex molecular structure, likely a small molecule inhibitor. The reported pIC50 value of 6.23 indicates that this compound has a relatively high potency, with an estimated IC50 value of approximately 0.0025 μM, suggesting it could be a promising"
+    },
+    {
+        "CID": "BACE_1053",
+        "pIC50": 6.221849,
+        "description": "Based on the provided SMILES string, this compound appears to be a complex molecule with a structure that includes a fluorinated aromatic ring, an amide linkage, and a quaternary ammonium group. The presence of a pIC50 value of 6.22 suggests that this compound has a"
+    },
+    {
+        "CID": "BACE_1054",
+        "pIC50": 6.221849,
+        "description": "Based on the SMILES notation, this compound appears to be a complex molecule with a benzimidazole core, a phenyl ring, and a piperidine ring, along with several other functional groups. The presence of a bromine atom, a carbonyl group, and an amine group"
+    },
+    {
+        "CID": "BACE_1055",
+        "pIC50": 6.2189631,
+        "description": "This compound is a halogenated benzimidazole derivative with a pIC50 value of 6.22, indicating a moderate level of potency against a specific biological target. The presence of fluorine substituents and a carbonyl group suggests that the compound may have been designed to interact with"
+    },
+    {
+        "CID": "BACE_1056",
+        "pIC50": 6.2146702,
+        "description": "This compound is a small molecule with a complex structure, featuring a fused aromatic ring system, a tertiary amine group, and a secondary amine group. The pIC50 value of 6.21 indicates that the compound has a relatively high affinity for its target, with an estimated IC50 value"
+    },
+    {
+        "CID": "BACE_1057",
+        "pIC50": 6.2146702,
+        "description": "The provided SMILES notation corresponds to a chemical compound with a benzimidazole scaffold, a cyclohexylmethyl sulfone moiety, and an aromatic ring with a methyl group. The compound has a pIC50 value of 6.21, indicating a moderate to strong inhibitory activity"
+    },
+    {
+        "CID": "BACE_1058",
+        "pIC50": 6.2146702,
+        "description": "This compound has a complex structure featuring a chloro-substituted aromatic ring, a carbonyl group, and a negatively charged oxygen atom, suggesting it may be a bioactive molecule with potential as a pharmaceutical agent. The pIC50 value of 6.21 indicates that the compound has moderate"
+    },
+    {
+        "CID": "BACE_1059",
+        "pIC50": 6.2006593,
+        "description": "This compound is a potent inhibitor of a target protein, with a pIC50 value of 6.20, indicating that it is likely to be a high-affinity binder. The structure suggests that it may be a diazepine-based compound, which is a common scaffold for a variety of"
+    },
+    {
+        "CID": "BACE_1060",
+        "pIC50": 6.2006593,
+        "description": "The provided SMILES notation represents a complex organic molecule with a structure that suggests it is a heterocyclic compound with a pyrazole or pyridine core, along with a number of alkyl and aryl substituents. The pIC50 value of 6.20 indicates that this"
+    },
+    {
+        "CID": "BACE_1061",
+        "pIC50": 6.2006593,
+        "description": "The provided SMILES string corresponds to a compound with a complex molecular structure, featuring a chlorinated aromatic ring, a pyridone ring, and a substituted cyclohexane ring. The compound has a relatively high potency, with a pIC50 value of 6.20, indicating an effective"
+    },
+    {
+        "CID": "BACE_1062",
+        "pIC50": 6.2006593,
+        "description": "The given SMILES string represents a small molecule with a molecular structure that includes a thiophene ring (S1CCC), an amidine group (NC1), and a substituted phenyl ring (c1cc(ccc1) attached to the thiophene ring). The reported pIC50"
+    },
+    {
+        "CID": "BACE_1063",
+        "pIC50": 6.2006593,
+        "description": "The SMILES string s1c2c(nc1C)C(=NC2(c1cc(ccc1)-c1cncnc1)c1ccc(OC)cc1)N represents a compound with a tricyclic core featuring a pyridine ring (c1cc"
+    },
+    {
+        "CID": "BACE_1066",
+        "pIC50": 6.1739254,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including sulfones, amides, and aromatic rings. The provided pIC50 value of 6.17 suggests that the compound has a moderate to high affinity for its target, likely a biological receptor or enzyme, with an estimated IC50"
+    },
+    {
+        "CID": "BACE_1067",
+        "pIC50": 6.1611509,
+        "description": "Based on the provided SMILES notation, this compound appears to be a complex molecule with a combination of aromatic and aliphatic regions, featuring a fluorine-substituted benzene ring, an amide group, and a quaternary ammonium center. The relatively low pIC50 value of"
+    },
+    {
+        "CID": "BACE_1069",
+        "pIC50": 6.1530447,
+        "description": "The provided SMILES notation represents a molecule with a complex structure, featuring a heterocyclic core with multiple nitrogen and oxygen atoms, as well as a series of alkyl and aryl substituents. The pIC50 value of 6.15 indicates that this molecule has a relatively high potency"
+    },
+    {
+        "CID": "BACE_1070",
+        "pIC50": 6.1487417,
+        "description": "Based on the provided SMILES notation, the compound appears to be a substituted benzimidazole derivative with a chloro substituent on the aromatic ring and a bromo substituent on the sulfur atom. The pIC50 value of 6.15 indicates that the compound has moderate potency, with an"
+    },
+    {
+        "CID": "BACE_1071",
+        "pIC50": 6.1426673,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide derivative with a complex molecular structure, featuring a sulfonamide group attached to a phenyl ring and a long aliphatic chain. The presence of fluorine atoms on the phenyl ring suggests that the compound may"
+    },
+    {
+        "CID": "BACE_1073",
+        "pIC50": 6.1307683,
+        "description": "The given SMILES string represents a complex molecule with multiple substructures, including a phenyl ring with a naphthalene-like structure, a pyridine ring, and a fluoro-substituted phenol moiety. The presence of a chiral center (indicated by the [C"
+    },
+    {
+        "CID": "BACE_1074",
+        "pIC50": 6.1307683,
+        "description": "Based on the provided SMILES notation, I can analyze the molecular structure. This compound appears to be a benzimidazole derivative with a phenolic ring, a substituted benzene ring, and a nitrogen-containing heterocycle, suggesting potential biological activity.\n\nAs for the pIC50 value of 6"
+    },
+    {
+        "CID": "BACE_1075",
+        "pIC50": 6.124939,
+        "description": "This compound is a highly potent inhibitor, with a pIC50 value of 6.12, indicating that it is effective at very low concentrations. The structure suggests that it is a type of serine protease inhibitor, potentially targeting enzymes such as trypsin or chymotrypsin"
+    },
+    {
+        "CID": "BACE_1076",
+        "pIC50": 6.124939,
+        "description": "This compound has a complex molecular structure with a variety of functional groups, including a chloro-substituted aromatic ring, a carbamate group, and a urea linkage. The presence of a pIC50 value of 6.12 suggests that this compound has moderate to high affinity for its target"
+    },
+    {
+        "CID": "BACE_1077",
+        "pIC50": 6.1191864,
+        "description": "Based on the provided SMILES notation, I have analyzed the structure of the compound.\n\nThe compound appears to be a complex molecule with a combination of aromatic and heterocyclic rings, as well as a variety of functional groups, including an amine, an amide, and an ether. The presence"
+    },
+    {
+        "CID": "BACE_1078",
+        "pIC50": 6.1191864,
+        "description": "The given compound has a SMILES notation that suggests it is a brominated benzimidazole derivative with a sulfonamide moiety, potentially indicating a bioactive compound with antiparasitic or antibacterial properties. The pIC50 value of 6.12 indicates a moderate to high potency for"
+    },
+    {
+        "CID": "BACE_1079",
+        "pIC50": 6.1191864,
+        "description": "Based on the SMILES notation, this compound appears to be a tricyclic compound with a chlorinated aromatic ring, a thiophene ring, and a cyano group, along with several other functional groups, including a carbonyl group, an amide group, and a sulfon"
+    },
+    {
+        "CID": "BACE_1080",
+        "pIC50": 6.1191864,
+        "description": "The provided SMILES notation represents a compound with a complex molecular structure, featuring a central scaffold with multiple aromatic rings, nitrogen-containing heterocycles, and a sulfide functional group. The reported pIC50 value of 6.12 suggests that this compound has moderate to high affinity for a biological target"
+    },
+    {
+        "CID": "BACE_1082",
+        "pIC50": 6.1029229,
+        "description": "This compound has a molecular structure that suggests it is a heterocyclic compound, likely a quinoline derivative, with a chlorine atom attached to one of the aromatic rings. The presence of a nitrogen-containing heterocycle and a nitrogen atom with a double bond to a carbon atom suggests that this compound"
+    },
+    {
+        "CID": "BACE_1083",
+        "pIC50": 6.1023731,
+        "description": "Based on the SMILES notation, this compound appears to be a nitrogen-containing heterocyclic molecule with a fused ring system, featuring a benzimidazole core and multiple fluorine substituents. The presence of a pIC50 value of 6.10 suggests that this compound is a relatively potent"
+    },
+    {
+        "CID": "BACE_1084",
+        "pIC50": 6.1023731,
+        "description": "This compound has a molecular structure that suggests it is a heterocyclic aromatic compound, specifically a benzimidazole derivative with a phenyl ring attached to the imidazole core. The presence of a nitrogens, a sulfur, and an aromatic ring system indicates that this compound may have biological activity"
+    },
+    {
+        "CID": "BACE_1085",
+        "pIC50": 6.09691,
+        "description": "The SMILES notation represents a complex molecular structure, which appears to be a synthetic compound with a molecular weight likely in the range of 500-700 Da. The presence of multiple amide and ester functional groups, as well as a relatively high pIC50 value of 6.10,"
+    },
+    {
+        "CID": "BACE_1086",
+        "pIC50": 6.09691,
+        "description": "The provided SMILES string represents a compound with a complex molecular structure, featuring a combination of aromatic and aliphatic rings, as well as various functional groups such as amine, amide, and ether moieties. The reported pIC50 value of 6.10 suggests that the compound exhibits"
+    },
+    {
+        "CID": "BACE_1087",
+        "pIC50": 6.09691,
+        "description": "The SMILES notation provided corresponds to a compound with a complex molecular structure, featuring a fused ring system with multiple aromatic rings, an amide group, and several ether and nitrogen-containing functional groups. The pIC50 value of 6.10 indicates that the compound has a moderate to strong binding affinity"
+    },
+    {
+        "CID": "BACE_1088",
+        "pIC50": 6.09691,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic aromatic compound with a complex structure, featuring multiple rings and functional groups, including amines, amides, and carbonyls. The pIC50 value of 6.10 suggests that this compound has a moderate"
+    },
+    {
+        "CID": "BACE_1089",
+        "pIC50": 6.0915151,
+        "description": "This compound is a synthetic molecule with a complex structure that suggests it may be a small molecule inhibitor of a biological target. The presence of a chlorine atom, multiple aromatic rings, and a piperidine and pyridine heterocycles indicate that it may be a kinase inhibitor, and the pIC"
+    },
+    {
+        "CID": "BACE_1091",
+        "pIC50": 6.0899096,
+        "description": "Based on the SMILES notation, this molecule appears to be a heterocyclic compound with a pyrazole core, a quinoline ring, and several nitrogen-containing functional groups. The pIC50 value of 6.09 suggests that this compound has a moderate to high affinity for a target"
+    },
+    {
+        "CID": "BACE_1092",
+        "pIC50": 6.0861859,
+        "description": "Based on the provided SMILES notation, the compound appears to be a complex organic molecule with a fused ring system, featuring a benzene ring substituted with fluorine and other functional groups, as well as a nitrogen-containing heterocycle. The pIC50 value of 6.09 suggests that this"
+    },
+    {
+        "CID": "BACE_1094",
+        "pIC50": 6.0851283,
+        "description": "Based on the provided SMILES string and pIC50 value, I analyze the compound as a potential inhibitor of a target enzyme. The SMILES string suggests a heterocyclic compound with a sulfonamide moiety, a quinoline backbone, and an imidazole ring, which may be"
+    },
+    {
+        "CID": "BACE_1095",
+        "pIC50": 6.0757208,
+        "description": "This compound has a complex molecular structure, featuring a combination of aromatic rings, heterocycles, and functional groups, including chlorines, amines, and carboxamides, which are typical features of many bioactive molecules. The pIC50 value of 6.08 indicates that this"
+    },
+    {
+        "CID": "BACE_1096",
+        "pIC50": 6.070581,
+        "description": "The given SMILES notation represents a complex organic molecule with a 2-phenylquinoline scaffold, a 2-methoxyphenyl substituent, and a 2-chlorophenyl group. The reported pIC50 value of 6.07 suggests that this molecule has moderate"
+    },
+    {
+        "CID": "BACE_1098",
+        "pIC50": 6.0655017,
+        "description": "This compound is a heterocyclic molecule with a complex structure, featuring a pyridine ring, a quinazoline core, and a substituted phenyl ring. The presence of a nitrogen atom in the pyridine ring and the quinazoline core, as well as the presence of"
+    },
+    {
+        "CID": "BACE_1100",
+        "pIC50": 6.0604806,
+        "description": "The provided SMILES string represents a compound with a complex structure featuring multiple rings and functional groups. Based on the SMILES string, the compound appears to be a heterocyclic compound with a quinazolinone core, which is a common motif in kinase inhibitors and other biologically active molecules."
+    },
+    {
+        "CID": "BACE_1103",
+        "pIC50": 6.0604806,
+        "description": "This compound is a sulfonamide, a class of molecules often used as inhibitors of enzymes such as carbonic anhydrase. The provided pIC50 value of 6.06 suggests that the compound has a moderate potency as an inhibitor, with an IC50 value of approximately 2.5"
+    },
+    {
+        "CID": "BACE_1104",
+        "pIC50": 6.0457573,
+        "description": "Based on the SMILES notation, the compound appears to be a halogenated flavone derivative, with the presence of fluorine atoms (FC(F)(F)) and a nitro group (N=C(N)N(C)C1=O) attached to the flavone core. The compound"
+    },
+    {
+        "CID": "BACE_1105",
+        "pIC50": 6.0457573,
+        "description": "Based on the provided SMILES notation, the compound appears to be a heterocyclic compound with a fused ring system, incorporating a benzene ring, a pyridine ring, and a thiophene ring. The presence of a pIC50 value of 6.05 suggests that this compound"
+    },
+    {
+        "CID": "BACE_1106",
+        "pIC50": 6.0457573,
+        "description": "The given SMILES notation represents a complex organic molecule with a fluorine-containing benzene ring (Fc1c(cccc1OC)) and a nitrogen-containing heterocycle (C23N=C(OC3)N). The presence of multiple oxygen and nitrogen atoms suggests that this molecule may have biological"
+    },
+    {
+        "CID": "BACE_1107",
+        "pIC50": 6.0457573,
+        "description": "Based on the SMILES notation, this molecule appears to be a fused tricyclic compound with a phenolic core, a nitrogen-containing heterocycle, and several oxygen-containing functional groups. The presence of a high pIC50 value (6.05) suggests that this compound is a potent"
+    },
+    {
+        "CID": "BACE_1108",
+        "pIC50": 6.0409584,
+        "description": "This compound has a complex molecular structure, featuring a sulfonamide group (S1) connected to a naphthalene core (c1cc(ccc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1"
+    },
+    {
+        "CID": "BACE_1109",
+        "pIC50": 6.0338583,
+        "description": "The given SMILES notation represents a sulfonamide-containing compound with a complex molecular structure. This compound exhibits a moderate inhibitory activity against a target with an IC50 value of 10^-6.03 M, indicating a relatively potent inhibition."
+    },
+    {
+        "CID": "BACE_1110",
+        "pIC50": 6.031517,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide-based inhibitor, likely targeting a kinase enzyme given the presence of a nitrogen-containing heterocycle and a fluorinated aromatic ring. The relatively high pIC50 value of 6.03 suggests that this compound has moderate"
+    },
+    {
+        "CID": "BACE_1112",
+        "pIC50": 6.0222764,
+        "description": "This compound has a molecular structure that suggests it is a nitrogen-containing compound, possibly a quinazolinone derivative, with a basic skeleton that may be involved in a variety of biological activities. The pIC50 value of 6.02 indicates that the compound has a relatively high affinity for its"
+    },
+    {
+        "CID": "BACE_1113",
+        "pIC50": 6.0190883,
+        "description": "This compound has a molecular structure that includes a chlorine atom attached to a benzene ring, which is connected to a nitrogen-containing ring system. The presence of a nitrogen-containing ring system and a basic nitrogen atom suggests that this compound may have a biological activity related to protein-ligand interactions, and the"
+    },
+    {
+        "CID": "BACE_1114",
+        "pIC50": 6.0087738,
+        "description": "The provided SMILES string represents a complex molecular structure, which appears to be a heterocyclic compound containing multiple rings and nitrogen-containing functional groups. The reported pIC50 value of 6.01 suggests that this compound exhibits moderate to strong inhibitory activity against a target of interest, likely a protein"
+    },
+    {
+        "CID": "BACE_1115",
+        "pIC50": 6.0087738,
+        "description": "This compound is a chiral, heterocyclic molecule with a fused ring system, featuring a fluorine-substituted benzene ring, a cyclohexane ring with a chiral center, and a pyrrolopyrimidine ring. The presence of a pyrrolopy"
+    },
+    {
+        "CID": "BACE_1116",
+        "pIC50": 6.004365,
+        "description": "This compound has a chemical structure that suggests it is a substituted aromatic amide, with a central scaffold featuring a conjugated carbonyl group and a fused ring system. The presence of a pIC50 value of 6.00 indicates that the compound has a relatively low potency in inhibiting the"
+    },
+    {
+        "CID": "BACE_1117",
+        "pIC50": 6.004365,
+        "description": "This compound has a molecular structure that suggests it is a sulfonamide-based compound, with a sulfonamide group (S(=O)(=O)) attached to a carbon chain containing a phenyl ring and a methyl group. The presence of a pIC50 value of 6.00 indicates"
+    },
+    {
+        "CID": "BACE_1118",
+        "pIC50": 6.0013046,
+        "description": "Based on the provided SMILES notation and pIC50 value, I can analyze the compound as follows:\n\nThis compound is a sulfonamide-based molecule with a complex structure featuring multiple aromatic rings, a sulfonamide group, and a quaternary ammonium ion. The pIC50 value of"
+    },
+    {
+        "CID": "BACE_1119",
+        "pIC50": 6.0,
+        "description": "The provided SMILES string represents a complex molecule with multiple functional groups, including aromatic rings, amines, amides, and a quaternary ammonium ion. The compound has a moderate potency, with a pIC50 value of 6.00, indicating that it is approximately 1"
+    },
+    {
+        "CID": "BACE_1120",
+        "pIC50": 6.0,
+        "description": "This compound, represented by the SMILES notation, is a complex molecule with a fused-ring core and a variety of functional groups, including amines, amides, and aromatic rings. The pIC50 value of 6.00 suggests that the compound has a moderate level of potency, indicating"
+    },
+    {
+        "CID": "BACE_1121",
+        "pIC50": 6.0,
+        "description": "The given SMILES string represents a small molecule with a thiophene core (S1) and a pyridine ring system (c1cc(ccc1)-c1cncnc1). The molecule has a moderate inhibitory activity against a target, with a pIC50 value of"
+    },
+    {
+        "CID": "BACE_1122",
+        "pIC50": 5.9956784,
+        "description": "This compound has a complex molecular structure featuring a combination of aromatic rings, heterocyclic moieties, and functional groups, which is likely intended to confer specific biological activity. The pIC50 value of 6.00 suggests that this compound has a relatively high potency as an inhibitor, with an IC"
+    },
+    {
+        "CID": "BACE_1123",
+        "pIC50": 5.9913998,
+        "description": "The given SMILES string represents a compound with a complex molecular structure, featuring a 2-aminopyrimidine scaffold conjugated to a phenyl ring and a chlorobenzene ring, with multiple nitrogen-containing functional groups, including an amidine and a urea moiety. The reported p"
+    },
+    {
+        "CID": "BACE_1124",
+        "pIC50": 5.9829664,
+        "description": "Based on the provided SMILES notation, the compound appears to be a nitrogen-containing heterocyclic compound, likely a piperazine-based scaffold with a central nitrogen atom bonded to a carbonyl group and a phenyl ring. The pIC50 value of 5.98 suggests that the compound"
+    },
+    {
+        "CID": "BACE_1125",
+        "pIC50": 5.9665761,
+        "description": "Based on the provided SMILES notation and pIC50 value, I can analyze the compound as follows:\n\nThe compound appears to be a substituted pyrazole derivative, likely a biologically active molecule with a relatively potent inhibitory activity (pIC50 = 5.97), suggesting it may be"
+    },
+    {
+        "CID": "BACE_1126",
+        "pIC50": 5.9665761,
+        "description": "The given SMILES string represents a complex organic molecule with a fused ring system, featuring a fluorinated aromatic ring, a piperidine ring, and a quinoline-like structure. The calculated pIC50 value of 5.97 suggests that this molecule exhibits moderate to high affinity for its target"
+    },
+    {
+        "CID": "BACE_1128",
+        "pIC50": 5.9586072,
+        "description": "The SMILES notation s1cc(nc1N)C(Cc1cc([N+](=O)[O-])ccc1OC)c1ccc(OC)cc1 represents a compound with a complex molecular structure featuring a benzimidazole core, a pyridine ring, and various"
+    },
+    {
+        "CID": "BACE_1130",
+        "pIC50": 5.9586072,
+        "description": "This compound has a complex molecular structure, with a fused-ring system featuring a benzimidazole core, a trifluoromethyl-substituted phenyl ring, and a series of aromatic and aliphatic substituents. The presence of a nitro group (C(O)CCCC=O"
+    },
+    {
+        "CID": "BACE_1131",
+        "pIC50": 5.9586072,
+        "description": "The provided SMILES notation represents a small molecule with a sulfonamide group (S(=O)(=O)) and an amine group ([NH2+]), which suggests that this compound may have biological activity as an enzyme inhibitor or receptor agonist. The pIC50 value of 5."
+    },
+    {
+        "CID": "BACE_1132",
+        "pIC50": 5.9586072,
+        "description": "Based on the provided SMILES notation, the compound appears to be a sulfonamide derivative, likely a synthetic inhibitor targeting a specific enzyme or receptor. The pIC50 value of 5.96 suggests that the compound has a moderate potency, with an IC50 value of approximately 3.98"
+    },
+    {
+        "CID": "BACE_1133",
+        "pIC50": 5.9586072,
+        "description": "Based on the provided SMILES notation, this compound appears to be a complex, multi-substituted molecule with a benzimidazole core, a piperidine ring, and several functional groups, including amide, ester, and amino functionalities. The pIC50 value of 5.96"
+    },
+    {
+        "CID": "BACE_1134",
+        "pIC50": 5.9586072,
+        "description": "Based on the provided SMILES notation and pIC50 value, I can analyze the compound as follows:\n\nThe compound appears to be a synthetic molecule with a complex structure, featuring a sulfonamide functional group (S(=O)(=O)N) linked to a piperidine ring (CC"
+    },
+    {
+        "CID": "BACE_1135",
+        "pIC50": 5.939302,
+        "description": "Based on the provided SMILES notation and pIC50 value, I can analyze the compound as follows:\n\nThe compound appears to be a tricyclic benzimidazole derivative with a chlorinated aromatic ring, a nitrogen-containing heterocycle, and a lipophilic side chain. The relatively high"
+    },
+    {
+        "CID": "BACE_1136",
+        "pIC50": 5.9318142,
+        "description": "Based on the provided SMILES notation, this compound appears to be a halogenated, heteroaromatic molecule with a complex structure featuring multiple rings and a nitrogen-containing moiety. The presence of a fluorine atom and a chlorine atom suggests that this compound may be a halogenated inhibitor of"
+    },
+    {
+        "CID": "BACE_1137",
+        "pIC50": 5.9281182,
+        "description": "The SMILES notation represents a compound with a benzimidazole core and a phenolic ring, featuring a carbonyl group and an oxygen atom connected to a cyclohexane ring. The relatively high pIC50 value of 5.93 suggests that this compound is moderately potent, likely as"
+    },
+    {
+        "CID": "BACE_1138",
+        "pIC50": 5.9208188,
+        "description": "Based on the provided SMILES string, I can analyze the molecular structure and its potential pharmacological properties.\n\nThe compound appears to be a heterocyclic compound with a nitrogen-containing core, featuring a pyridine ring (c1n) and a benzene ring (c1ccc) fused together"
+    },
+    {
+        "CID": "BACE_1139",
+        "pIC50": 5.9208188,
+        "description": "Based on the provided SMILES notation, this compound appears to be a sulfonamide derivative with a complex molecular structure, featuring a sulfonic acid group (S(=O)(=O)) and an aromatic ring system with various substituents. The pIC50 value of 5.92 suggests"
+    },
+    {
+        "CID": "BACE_1140",
+        "pIC50": 5.9208188,
+        "description": "This compound has a complex structure featuring a fused ring system with a quinazolinone core, a piperidine side chain, and a fluorinated aromatic ring. The presence of a positively charged amine group and a pIC50 value of 5.92 suggests that this compound is a"
+    },
+    {
+        "CID": "BACE_1141",
+        "pIC50": 5.9208188,
+        "description": "The given compound is a sulfonamide derivative with a pIC50 value of 5.92, indicating a relatively high potency as an inhibitor of a target enzyme. The presence of a sulfonamide group, fluorine substitution, and a basic nitrogen atom suggest that this compound may be a competitive"
+    },
+    {
+        "CID": "BACE_1142",
+        "pIC50": 5.9172144,
+        "description": "This compound has a complex molecular structure, featuring a fused ring system with multiple aromatic rings, including a fluorinated aryl group. The presence of a pIC50 value of 5.92 suggests that the compound has moderate to high affinity for its target, although the exact target is not specified."
+    },
+    {
+        "CID": "BACE_1143",
+        "pIC50": 5.9065785,
+        "description": "This compound is a small molecule with a molecular structure that includes an amide bond and an azole ring, suggesting it may have biological activity related to nitrogen-containing compounds. The pIC50 value of 5.91 indicates that this compound has moderate potency, with an IC50 value of approximately"
+    },
+    {
+        "CID": "BACE_1144",
+        "pIC50": 5.9065785,
+        "description": "This compound has a structure that suggests it is a substituted benzimidazole derivative, which is a common scaffold for various pharmacological activities. The reported pIC50 value of 5.91 indicates that the compound has a moderate potency as an inhibitor, likely against a specific target enzyme or receptor, although"
+    },
+    {
+        "CID": "BACE_1145",
+        "pIC50": 5.8996296,
+        "description": "This compound has a complex molecular structure with multiple functional groups, including a sulfonamide, amide, and ether moieties, which are likely contributing to its biological activity. The relatively low pIC50 value of 5.90 suggests that the compound has moderate potency as an inhibitor, with a"
+    },
+    {
+        "CID": "BACE_1147",
+        "pIC50": 5.8860569,
+        "description": "The given compound has a complex molecular structure with a biphenyl backbone and a diazine ring system, suggesting a potential for high potency and selectivity as a bioactive molecule. The pIC50 value of 5.89 indicates that the compound is likely to be a potent inhibitor of a"
+    },
+    {
+        "CID": "BACE_1148",
+        "pIC50": 5.8860569,
+        "description": "Based on the SMILES notation, this molecule appears to be a nitrogen-containing heterocyclic compound, likely a quinazoline or a similar scaffold, with a substituted aromatic ring attached to the nitrogen atom. The pIC50 value of 5.89 suggests that this compound has a moderate to"
+    },
+    {
+        "CID": "BACE_1149",
+        "pIC50": 5.8860564,
+        "description": "Based on the provided SMILES notation, this compound appears to be a fluorinated, aminopyrimidine derivative, which is a common scaffold for various biologically active molecules. The pIC50 value of 5.89 indicates that the compound has a moderate to high potency, with an estimated"
+    },
+    {
+        "CID": "BACE_1150",
+        "pIC50": 5.8860564,
+        "description": "This compound is a potent inhibitor, with a pIC50 value of 5.89, indicating a strong affinity for its target. The molecular structure suggests it is a kinase inhibitor, likely targeting a specific enzyme involved in cellular signaling pathways, given the presence of a core scaffold typical of many kinase inhibitors"
+    },
+    {
+        "CID": "BACE_1151",
+        "pIC50": 5.8860564,
+        "description": "This compound has a complex molecular structure featuring a fused aromatic ring system with multiple substituents, including fluorine, amine, and ether groups. The presence of a positively charged amine group and a pIC50 value of 5.89 suggests that this compound may be a potent inhibitor of"
+    },
+    {
+        "CID": "BACE_1152",
+        "pIC50": 5.8860564,
+        "description": "Based on the provided SMILES notation, I can infer that this molecule is a complex compound with multiple functional groups, including a fluorinated aromatic ring, a carbamate group, a tertiary amine, and a quaternary ammonium salt. The pIC50 value of 5.89 suggests"
+    },
+    {
+        "CID": "BACE_1154",
+        "pIC50": 5.8860564,
+        "description": "Based on the provided SMILES notation, this compound appears to be a tricyclic amine with a quaternary ammonium salt, a tertiary amine, and a ketone group, which suggests it may have a biological activity related to ion channels or receptors. The pIC50 value"
+    },
+    {
+        "CID": "BACE_1155",
+        "pIC50": 5.8860564,
+        "description": "This compound has a potent inhibitory activity (pIC50 5.89) and is likely a serotonin receptor antagonist, given the presence of a substituted phenyl ring and a basic nitrogen atom, which are common features of serotonin receptor ligands. The presence of a fluorine atom on the phen"
+    },
+    {
+        "CID": "BACE_1156",
+        "pIC50": 5.8703103,
+        "description": "Based on the SMILES notation, this compound appears to be a heterocyclic aromatic compound with a central core consisting of a 2,3-dihydro-1H-inden-1-one scaffold, which is a common motif in medicinal chemistry. The presence of a nitrogen atom in the central"
+    },
+    {
+        "CID": "BACE_1157",
+        "pIC50": 5.8664613,
+        "description": "The SMILES notation represents a compound with a biphenyl core, featuring two phenyl rings connected by a central carbon atom, and a urea moiety attached to one of the rings. The compound's pIC50 value of 5.87 indicates a moderate potency for a biological target,"
+    },
+    {
+        "CID": "BACE_1158",
+        "pIC50": 5.8664613,
+        "description": "Based on the provided SMILES string, I would analyze this compound as a potential kinase inhibitor. The presence of a central benzimidazole core, flanked by an aryl ring and a heterocyclic amide, suggests a high degree of molecular complexity and potential for kinase inhibition, which is consistent"
+    },
+    {
+        "CID": "BACE_1159",
+        "pIC50": 5.8632793,
+        "description": "This compound is a sulfonamide-containing molecule with a complex structure, featuring multiple aromatic rings, a sulfonamide group, and a tertiary amine. Its pIC50 value of 5.86 indicates a moderate to high potency as an inhibitor, suggesting that it may be effective at low concentrations"
+    },
+    {
+        "CID": "BACE_1160",
+        "pIC50": 5.8601208,
+        "description": "Based on the provided SMILES notation, this compound appears to be a novel heterocyclic molecule with a complex structure featuring multiple nitrogen and oxygen-containing functional groups, including a pyridine ring, an amide group, and an imidazole-like structure. The pIC50 value of 5"
+    },
+    {
+        "CID": "BACE_1161",
+        "pIC50": 5.8601208,
+        "description": "This compound has a complex molecular structure with a fused-ring system and multiple nitrogen-containing heterocycles, which may contribute to its biological activity. The pIC50 value of 5.86 indicates that the compound has a moderate to high affinity for its target, suggesting potential efficacy in biological assays, but"
+    },
+    {
+        "CID": "BACE_1162",
+        "pIC50": 5.8569851,
+        "description": "Based on the provided SMILES notation, this compound appears to be a heterocyclic aromatic amine with a structure that includes a pyridine ring (C5H5N) and a benzene ring (C6H6). The relatively low pIC50 value of 5.86"
+    },
+    {
+        "CID": "BACE_1163",
+        "pIC50": 5.8569851,
+        "description": "Based on the provided SMILES notation, I can identify the compound as a fluorinated heterocyclic molecule with a benzimidazole core and a trifluoromethylphenyl substituent. The pIC50 value of 5.86 indicates that the compound has a moderate potency, with an"
+    },
+    {
+        "CID": "BACE_1164",
+        "pIC50": 5.8538718,
+        "description": "This compound is a small molecule with a complex structure, featuring a phenyl ring substituted with a fluorine atom, a cyclohexane ring, and an imidazole ring. The compound has a calculated pIC50 value of 5.85, indicating a moderate to high affinity for a"
+    },
+    {
+        "CID": "BACE_1165",
+        "pIC50": 5.8538718,
+        "description": "Based on the provided SMILES string, this compound appears to be a sulfonamide-containing molecule with a brominated phenol ring and a quaternary ammonium salt. The pIC50 value of 5.85 suggests that this compound has moderate potency as an inhibitor of a biological target,"
+    },
+    {
+        "CID": "BACE_1166",
+        "pIC50": 5.8538718,
+        "description": "The given SMILES notation corresponds to a tricyclic compound with a pyridine ring system, a central cyclohexane ring, and a substituted piperidine ring. The compound exhibits a moderate potency (pIC50 of 5.85), suggesting it may be a lead compound"
+    },
+    {
+        "CID": "BACE_788",
+        "pIC50": 7.0655017,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 7.07, suggesting potential efficacy as a BACE-1 inhibitor. However, its relatively high molecular weight (556.69 Da) and moderate lipophilicity (AlogP 1.84) may raise concerns about its pharmacokinetic properties and potential for off-target interactions"
+    },
+    {
+        "CID": "BACE_790",
+        "pIC50": 7.0604806,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 with a pIC50 value of 7.06, indicating potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (MW 594.64) and lipophilicity (AlogP 3.96) may raise concerns about its pharmacokinetic properties, such as solubility"
+    },
+    {
+        "CID": "BACE_791",
+        "pIC50": 7.0604806,
+        "description": "This candidate compound exhibits a moderate to strong potency (pIC50 7.06) against BACE-1, suggesting potential as a lead compound for Alzheimer's disease research, with a favorable balance of molecular properties that may enable good oral bioavailability and permeability. However, its relatively high molecular weight (MW 510.64) and moderate lipophilicity (AlogP 2."
+    },
+    {
+        "CID": "BACE_793",
+        "pIC50": 7.0555172,
+        "description": "Based on the provided molecular properties, this candidate exhibits a moderate to high affinity for BACE-1 (pIC50 7.06), suggesting potential as a lead compound for Alzheimer's disease research. However, its moderate lipophilicity (AlogP 2.91) and relatively high molecular weight (MW 487.60) may necessitate further optimization to enhance its pharmacokinetic"
+    },
+    {
+        "CID": "BACE_797",
+        "pIC50": 7.0457573,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1 with a pIC50 of 7.05, suggesting potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (MW 616.70) and moderate lipophilicity (AlogP 2.13) may raise concerns about its pharmacokinetic properties, such as solub"
+    },
+    {
+        "CID": "BACE_805",
+        "pIC50": 7.0409584,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 7.04, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (MW 545.71) and moderate lipophilicity (AlogP 0.41) may raise concerns about its pharmacokinetic properties, such as oral"
+    },
+    {
+        "CID": "BACE_806",
+        "pIC50": 7.0409584,
+        "description": "This candidate compound exhibits a moderate to high potency (pIC50 7.04) against BACE-1, a key enzyme implicated in Alzheimer's disease, with a molecular weight (MW) of 471.59 and a lipophilicity (AlogP) of 0.97, suggesting a balance between bioavailability and potential for central nervous system penetration. Its pharmacological profile suggests"
+    },
+    {
+        "CID": "BACE_809",
+        "pIC50": 7.031517,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 (pIC50 7.03), suggesting potential as a lead compound for Alzheimer's disease research, particularly in the context of inhibiting beta-amyloid production. However, its relatively high molecular weight (MW 537.66) and moderate lipophilicity (AlogP 3.07) may necessitate further"
+    },
+    {
+        "CID": "BACE_831",
+        "pIC50": 6.9586072,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.96, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (599.66 Da) and lipophilicity (AlogP 3.08) may raise concerns about its pharmacokinetic properties and potential for off-target interactions"
+    },
+    {
+        "CID": "BACE_833",
+        "pIC50": 6.9586072,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.96, suggesting potential efficacy in inhibiting the enzyme responsible for amyloid precursor protein cleavage. However, its relatively high molecular weight (500.62) and lipophilicity (AlogP 3.10) may raise concerns about its pharmacokinetic properties, such"
+    },
+    {
+        "CID": "BACE_834",
+        "pIC50": 6.9586072,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.96, indicating a potential IC50 value of approximately 2.5 nM. However, its pharmacokinetic profile is less favorable due to its relatively high molecular weight (485.55 g/mol) and moderate lipophilicity (AlogP 0.62),"
+    },
+    {
+        "CID": "BACE_837",
+        "pIC50": 6.9546771,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.95), which suggests its potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (MW 671.77) and moderate lipophilicity (AlogP 2.85) may raise concerns about its pharmacokinetic properties, such as solubility"
+    },
+    {
+        "CID": "BACE_844",
+        "pIC50": 6.9208188,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.92, indicating a potential IC50 value of approximately 2.5 nM. Its pharmacological profile suggests a favorable balance of lipophilicity (AlogP 3.14) and molecular weight (483.57 g/mol), which may facilitate cellular permeability and"
+    },
+    {
+        "CID": "BACE_846",
+        "pIC50": 6.9208188,
+        "description": "This candidate compound exhibits a moderate to high potency for BACE-1 inhibition, with a pIC50 value of 6.92, suggesting potential efficacy in reducing amyloid-β production in Alzheimer's disease. However, its relatively high molecular weight (618.69 g/mol) and lipophilicity (AlogP 4.80) may raise concerns about its pharmacokinetic properties,"
+    },
+    {
+        "CID": "BACE_852",
+        "pIC50": 6.9065785,
+        "description": "This candidate compound exhibits a moderate BACE-1 inhibitory activity with a pIC50 of 6.91, suggesting a potential therapeutic effect against Alzheimer's disease. However, its relatively high molecular weight (590.66 Da) and moderate lipophilicity (AlogP 1.67) may raise concerns about its pharmacokinetic properties and potential for off-target effects, warranting further"
+    },
+    {
+        "CID": "BACE_854",
+        "pIC50": 6.8996296,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1 with a pIC50 of 6.90, suggesting potential efficacy in reducing amyloid-beta production. However, its relatively high molecular weight (MW 637.81) and moderate lipophilicity (AlogP 3.55) may raise concerns about its pharmacokinetic properties, such as solubility"
+    },
+    {
+        "CID": "BACE_860",
+        "pIC50": 6.8860564,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 with a pIC50 value of 6.89, suggesting potential efficacy as an Alzheimer's disease therapeutic. However, its relatively high molecular weight (MW 487.64) and lipophilicity (AlogP 4.73) may raise concerns about its pharmacokinetic properties, such as solubility, perme"
+    },
+    {
+        "CID": "BACE_870",
+        "pIC50": 6.8569851,
+        "description": "Based on the provided molecular properties, this candidate exhibits a moderate to high affinity for BACE-1 (pIC50 6.86), which suggests potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (MW 478.60) and moderate lipophilicity (AlogP 3.44) may necessitate further optimization to enhance its pharmacokin"
+    },
+    {
+        "CID": "BACE_874",
+        "pIC50": 6.8538718,
+        "description": "This candidate compound exhibits moderate potency against BACE-1 with a pIC50 of 6.85, suggesting potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic profile is somewhat concerning due to its moderate lipophilicity (AlogP 3.92) and relatively high molecular weight (431.54), which may impact its bioavailability and brain penetration."
+    },
+    {
+        "CID": "BACE_886",
+        "pIC50": 6.821023,
+        "description": "This candidate compound exhibits a moderate to strong BACE-1 inhibitory activity (pIC50 6.82), suggesting potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (MW 645.74) and moderate lipophilicity (AlogP 2.39) may raise concerns about its pharmacokinetic properties and potential for off-target interactions, which"
+    },
+    {
+        "CID": "BACE_891",
+        "pIC50": 6.7958798,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.80, indicating potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (661.68 g/mol) and lipophilicity (AlogP 5.86) may raise concerns about its pharmacokinetic properties and potential for off-target"
+    },
+    {
+        "CID": "BACE_893",
+        "pIC50": 6.779892,
+        "description": "This candidate exhibits a moderate to high affinity for BACE-1 with a pIC50 of 6.78, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (484.60) and lipophilicity (AlogP 3.67) may raise concerns about its pharmacokinetic properties, such as solubility and permeability,"
+    },
+    {
+        "CID": "BACE_903",
+        "pIC50": 6.7447276,
+        "description": "This candidate compound exhibits moderate potency against BACE-1, with a pIC50 value of 6.74, suggesting it may be a viable lead compound for Alzheimer's disease research. However, its relatively high molecular weight (621.81) and moderate lipophilicity (AlogP 2.94) may necessitate further optimization to improve its pharmacokinetic properties and overall drug-like"
+    },
+    {
+        "CID": "BACE_904",
+        "pIC50": 6.7447276,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibitory activity (pIC50 6.74) with a relatively low molecular weight (487.60 g/mol) and moderate lipophilicity (AlogP 3.17), suggesting potential for oral bioavailability and favorable pharmacokinetic properties. However, its pharmacological profile is limited by its moderate potency, which may necessitate further optimization"
+    },
+    {
+        "CID": "BACE_905",
+        "pIC50": 6.7447276,
+        "description": "This candidate compound exhibits a moderate to strong affinity for BACE-1 with a pIC50 of 6.74, suggesting potential efficacy as a BACE-1 inhibitor. However, its relatively high molecular weight (MW 487.64) and lipophilicity (AlogP 4.76) may raise concerns about its pharmacokinetic properties, such as solubility, perme"
+    },
+    {
+        "CID": "BACE_907",
+        "pIC50": 6.7447276,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 (pIC50 6.74), suggesting potential efficacy in inhibiting the enzyme responsible for amyloid-beta production in Alzheimer's disease. However, its relatively high molecular weight (MW 587.75) and moderate lipophilicity (AlogP 0.96) may raise concerns about its pharmacokinetic properties,"
+    },
+    {
+        "CID": "BACE_911",
+        "pIC50": 6.7212462,
+        "description": "This candidate compound exhibits a moderate BACE-1 inhibitory activity (pIC50 6.72) with a relatively high molecular weight (632.79 Da) and moderate lipophilicity (AlogP 3.44), suggesting a potential for good in vivo stability but possible challenges with oral bioavailability. As a lead compound for Alzheimer's disease research, it warrants further investigation for its"
+    },
+    {
+        "CID": "BACE_914",
+        "pIC50": 6.6989698,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, as indicated by its pIC50 value of 6.70, suggesting potential efficacy in inhibiting the enzyme's activity. However, its pharmacokinetic profile is somewhat limited by its moderate lipophilicity (AlogP 3.15) and relatively high molecular weight (433.55), which may impact its oral"
+    },
+    {
+        "CID": "BACE_922",
+        "pIC50": 6.6777806,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 (pIC50 6.68), suggesting potential as a lead compound for Alzheimer's disease research, particularly in terms of inhibiting amyloid precursor protein (APP) cleavage. However, its relatively high molecular weight (MW 613.67) and lipophilicity (AlogP 3.54) may raise"
+    },
+    {
+        "CID": "BACE_923",
+        "pIC50": 6.6777806,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.68, indicating potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic profile, as suggested by its moderate AlogP value of 2.95, may require optimization to achieve optimal brain penetration and oral bioavailability, which could impact its potential"
+    },
+    {
+        "CID": "BACE_924",
+        "pIC50": 6.6777806,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.68), which suggests potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (MW 620.71) and lipophilicity (AlogP 5.25) may raise concerns regarding its pharmacokinetic properties, such as solubility, perme"
+    },
+    {
+        "CID": "BACE_925",
+        "pIC50": 6.6736641,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibition potency with a pIC50 of 6.67, suggesting it may be effective in reducing amyloid-beta production in Alzheimer's disease. Its pharmacological profile is further supported by a moderate lipophilicity (AlogP 3.44), which may facilitate cellular permeability, but its relatively high molecular weight (MW 589.54)"
+    },
+    {
+        "CID": "BACE_926",
+        "pIC50": 6.6575775,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibitory activity with a pIC50 of 6.66, indicating a potential therapeutic effect against Alzheimer's disease. However, its pharmacokinetic profile is a concern due to its moderate lipophilicity (AlogP 3.82) and relatively high molecular weight (459.59), which may impact its bioavailability and central nervous system penetration"
+    },
+    {
+        "CID": "BACE_931",
+        "pIC50": 6.6458917,
+        "description": "This candidate exhibits a moderate to high affinity for BACE-1 with a pIC50 value of 6.65, indicating potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (562.64) and lipophilicity (AlogP 1.79) may raise concerns about its pharmacokinetic properties, such as solubility, permeability"
+    },
+    {
+        "CID": "BACE_932",
+        "pIC50": 6.6382723,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.64), suggesting its potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (MW 467.52) and lipophilicity (AlogP 3.88) may raise concerns regarding its pharmacokinetic properties, such as solubility and"
+    },
+    {
+        "CID": "BACE_935",
+        "pIC50": 6.6197886,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 with a pIC50 of 6.62, suggesting potential efficacy as an Alzheimer's disease treatment. However, its relatively high molecular weight (MW 546.67) and moderate lipophilicity (AlogP 2.76) may raise concerns about its pharmacokinetic properties and potential for central nervous system penetration,"
+    },
+    {
+        "CID": "BACE_961",
+        "pIC50": 6.5376019,
+        "description": "This candidate compound exhibits a moderate BACE-1 inhibitory potency (pIC50 6.54) and a relatively favorable pharmacokinetic profile, with a moderate lipophilicity (AlogP 0.89) and a molecular weight (MW 489.57) that is within a reasonable range for oral bioavailability. However, its pharmacological profile suggests that further optimization may be"
+    },
+    {
+        "CID": "BACE_962",
+        "pIC50": 6.5376019,
+        "description": "This candidate compound exhibits a moderate to strong BACE-1 inhibitory activity (pIC50 6.54), which suggests potential efficacy in reducing amyloid-β production in Alzheimer's disease. However, its pharmacokinetic properties, particularly its moderate lipophilicity (AlogP 3.77), may raise concerns about its bioavailability and potential for central nervous system penetration, warranting"
+    },
+    {
+        "CID": "BACE_963",
+        "pIC50": 6.5346169,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, as indicated by its pIC50 value of 6.53, suggesting potential efficacy in inhibiting the enzyme responsible for amyloid-beta production in Alzheimer's disease. However, its relatively high molecular weight (502.67 Da) and lipophilicity (AlogP 4.81) may raise concerns about its pharmac"
+    },
+    {
+        "CID": "BACE_970",
+        "pIC50": 6.5086384,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1 with a pIC50 value of 6.51, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (632.79 Da) and lipophilicity (AlogP 3.44) may raise concerns regarding its pharmacokinetic properties, such as solubility,"
+    },
+    {
+        "CID": "BACE_973",
+        "pIC50": 6.4975729,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibitory activity (pIC50 6.50), suggesting potential efficacy in Alzheimer's disease treatment, but its pharmacokinetic properties, such as its moderate lipophilicity (AlogP 3.53), may require optimization to ensure adequate bioavailability and brain penetration. Despite its relatively large molecular weight (MW 488.63), the compound"
+    },
+    {
+        "CID": "BACE_977",
+        "pIC50": 6.4814858,
+        "description": "This candidate compound exhibits a moderate BACE-1 inhibitory potency (pIC50 6.48) with a relatively favorable lipophilicity (AlogP 2.59), suggesting potential for oral bioavailability and cellular penetration. However, its molecular weight (MW 517.63) is somewhat high, which may impact its pharmacokinetic properties and overall drug-like profile, necessitating"
+    },
+    {
+        "CID": "BACE_982",
+        "pIC50": 6.4672456,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1 with a pIC50 value of 6.47, suggesting potential efficacy in reducing amyloid-β production. However, its relatively high molecular weight (MW 445.57) and lipophilicity (AlogP 4.38) may raise concerns about its pharmacokinetic properties, such as solub"
+    },
+    {
+        "CID": "BACE_985",
+        "pIC50": 6.4609237,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.46, suggesting potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic properties, such as its moderate lipophilicity (AlogP 2.17) and relatively high molecular weight (435.53), may require optimization to improve its oral"
+    },
+    {
+        "CID": "BACE_997",
+        "pIC50": 6.4202166,
+        "description": "This candidate exhibits a moderate to high affinity for BACE-1 (pIC50 6.42), suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (MW 517.63) and moderate lipophilicity (AlogP 2.07) may pose challenges for oral bioavailability and brain penetration, which could impact its overall efficacy and"
+    },
+    {
+        "CID": "BACE_998",
+        "pIC50": 6.4202166,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1, with a pIC50 value of 6.42, indicating a potential therapeutic effect in Alzheimer's disease. However, its relatively high molecular weight (498.63 g/mol) and moderate lipophilicity (AlogP 3.71) may pose challenges for oral bioavailability and CNS penetration, which could"
+    },
+    {
+        "CID": "BACE_1000",
+        "pIC50": 6.4202166,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1 with a pIC50 of 6.42, indicating potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (471.60) and lipophilicity (AlogP 4.28) may raise concerns about its pharmacokinetic properties, such as solubility and perme"
+    },
+    {
+        "CID": "BACE_1002",
+        "pIC50": 6.4089355,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.41), which suggests its potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (MW 467.52) and moderate lipophilicity (AlogP 3.62) may raise concerns about its pharmacokinetic properties and potential for central nervous system"
+    },
+    {
+        "CID": "BACE_1004",
+        "pIC50": 6.406714,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibition potency (pIC50 6.41), suggesting potential as a lead compound for Alzheimer's disease research, but its relatively high molecular weight (MW 542.68) and moderate lipophilicity (AlogP 3.45) may impact its pharmacokinetic properties and overall efficacy. Despite these limitations, the compound's pharmacological profile"
+    },
+    {
+        "CID": "BACE_1012",
+        "pIC50": 6.368556,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1 with a pIC50 of 6.37, suggesting potential as a therapeutic agent for Alzheimer's disease. However, its relatively high molecular weight (687.82) and lipophilicity (AlogP 3.43) may raise concerns regarding its pharmacokinetic properties, such as solubility, perme"
+    },
+    {
+        "CID": "BACE_1016",
+        "pIC50": 6.3467875,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, as indicated by its pIC50 value of 6.35, suggesting potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic profile may be limited by its moderate lipophilicity (AlogP 2.42), which could impact its brain penetration and oral bioavailability, necessitating further"
+    },
+    {
+        "CID": "BACE_1024",
+        "pIC50": 6.3279023,
+        "description": "Based on the provided molecular properties, this candidate exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.33, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (431.92) and lipophilicity (AlogP 4.12) may raise concerns about its pharmacokinetic properties,"
+    },
+    {
+        "CID": "BACE_1028",
+        "pIC50": 6.309804,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.31), which suggests potential efficacy in Alzheimer's disease treatment. However, its relatively high molecular weight (MW 518.64) and moderate lipophilicity (AlogP 1.11) may raise concerns about its pharmacokinetic properties, such as oral bioavailability and central nervous"
+    },
+    {
+        "CID": "BACE_1030",
+        "pIC50": 6.3010302,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibition potential with a pIC50 of 6.30, suggesting it may be effective in reducing amyloid-β production in Alzheimer's disease. However, its pharmacological profile is somewhat compromised by its moderate lipophilicity (AlogP 3.89) and relatively high molecular weight (MW 565.72), which may impact its brain"
+    },
+    {
+        "CID": "BACE_1035",
+        "pIC50": 6.2924299,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.29, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (399.91) and lipophilicity (AlogP 4.01) may raise concerns about its pharmacokinetic properties and potential for off-target effects,"
+    },
+    {
+        "CID": "BACE_1049",
+        "pIC50": 6.2365718,
+        "description": "This candidate exhibits a moderate BACE-1 inhibitory activity with a pIC50 of 6.24, suggesting potential efficacy in Alzheimer's disease treatment. However, its relatively high molecular weight (459.55) and moderate lipophilicity (AlogP 3.02) may raise concerns about its pharmacokinetic properties, such as solubility, permeability, and potential for"
+    },
+    {
+        "CID": "BACE_1064",
+        "pIC50": 6.19382,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity with a pIC50 of 6.19, suggesting potential efficacy in reducing amyloid-beta production. However, its pharmacokinetic properties, such as its moderate lipophilicity (AlogP 3.20) and relatively high molecular weight (MW 432.53), may require optimization to improve its bioavailability"
+    },
+    {
+        "CID": "BACE_1065",
+        "pIC50": 6.1752234,
+        "description": "This candidate compound exhibits moderate to high affinity for BACE-1 (pIC50 6.18), suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (604.80) and lipophilicity (AlogP 4.72) may raise concerns about its pharmacokinetic properties and potential for off-target effects, which would need to be"
+    },
+    {
+        "CID": "BACE_1068",
+        "pIC50": 6.154902,
+        "description": "Based on the provided metrics, this candidate exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.15), suggesting potential efficacy in Alzheimer's disease treatment. However, its relatively high molecular weight (MW 516.64) and moderate lipophilicity (AlogP 2.79) may raise concerns about its pharmacokinetic properties, such as solub"
+    },
+    {
+        "CID": "BACE_1072",
+        "pIC50": 6.1426673,
+        "description": "This candidate compound exhibits moderate BACE-1 inhibitory activity (pIC50 6.14) with a relatively favorable molecular weight and lipophilicity profile, suggesting potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic properties and potential for off-target interactions should be further evaluated to assess its overall viability as a therapeutic agent."
+    },
+    {
+        "CID": "BACE_1081",
+        "pIC50": 6.1079054,
+        "description": "This candidate compound exhibits a moderate potency (pIC50 6.11) and favorable lipophilicity (AlogP 3.23) for a BACE-1 inhibitor, suggesting potential as a lead compound for Alzheimer's disease research. However, its molecular weight (446.55) is relatively high, which may impact its pharmacokinetic properties and oral bioavailability, and further optimization"
+    },
+    {
+        "CID": "BACE_1090",
+        "pIC50": 6.0915151,
+        "description": "Based on the provided metrics, this candidate exhibits moderate potency as a BACE-1 inhibitor, with a pIC50 of 6.09, indicating an IC50 of approximately 3.16 μM. However, its relatively high molecular weight (473.62 Da) and lipophilicity (AlogP 4.53) may raise concerns about its pharmacokinetic properties, such"
+    },
+    {
+        "CID": "BACE_1093",
+        "pIC50": 6.0861859,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 6.09, suggesting potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic profile, as indicated by its moderate AlogP value of 2.57, may require optimization to improve its oral bioavailability and brain penetration, which are critical for effective"
+    },
+    {
+        "CID": "BACE_1097",
+        "pIC50": 6.0655017,
+        "description": "This candidate exhibits a moderate pharmacological profile for BACE-1 inhibition, with a pIC50 value of 6.07 indicating reasonable potency, but its relatively high molecular weight (608.74 Da) and lipophilicity (AlogP 5.06) may raise concerns about its bioavailability and metabolic stability. Despite these limitations, its potency and molecular properties suggest potential as a lead"
+    },
+    {
+        "CID": "BACE_1099",
+        "pIC50": 6.0655017,
+        "description": "This candidate compound exhibits a moderate to strong inhibitory activity against BACE-1 with a pIC50 value of 6.07, suggesting potential as a lead compound for Alzheimer's disease research. However, its relatively high molecular weight (727.82 g/mol) and lipophilicity (AlogP 6.36) may raise concerns about its pharmacokinetic properties, such as sol"
+    },
+    {
+        "CID": "BACE_1101",
+        "pIC50": 6.0604806,
+        "description": "This candidate compound exhibits moderate potency as a BACE-1 inhibitor, with a pIC50 value of 6.06, indicating an IC50 of approximately 3.16 μM. However, its pharmacological profile is limited by its moderate lipophilicity (AlogP 2.59) and relatively high molecular weight (435.53 g/mol), which may compromise its brain penetration"
+    },
+    {
+        "CID": "BACE_1102",
+        "pIC50": 6.0604806,
+        "description": "This candidate compound exhibits a moderate to potent BACE-1 inhibitory activity (pIC50 6.06), which suggests potential efficacy in Alzheimer's disease research. However, its relatively high molecular weight (MW 677.80) and moderate lipophilicity (AlogP 3.45) may raise concerns about its pharmacokinetic properties, such as oral bioavailability and potential for"
+    },
+    {
+        "CID": "BACE_1111",
+        "pIC50": 6.0268722,
+        "description": "This candidate compound exhibits a moderate to strong binding affinity for BACE-1, with a pIC50 value of 6.03, suggesting potential efficacy as a BACE-1 inhibitor. However, its relatively high molecular weight (485.63 g/mol) and lipophilicity (AlogP 4.61) may raise concerns about its pharmacokinetic properties, such as solub"
+    },
+    {
+        "CID": "BACE_1127",
+        "pIC50": 5.9625735,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, as indicated by its pIC50 value of 5.96, suggesting potential efficacy in inhibiting BACE-1 activity. However, its relatively low lipophilicity (AlogP 2.63) and moderate molecular weight (MW 441.95) may impact its pharmacokinetic properties, such as oral"
+    },
+    {
+        "CID": "BACE_1129",
+        "pIC50": 5.9586072,
+        "description": "Based on the provided metrics, this candidate exhibits moderate BACE-1 inhibition potency (pIC50 5.96) and a relatively favorable lipophilicity profile (AlogP 3.56), suggesting potential for oral bioavailability. However, its molecular weight (483.57) is somewhat elevated, which may impact its pharmacokinetic properties and lead to concerns about metabolic stability, making"
+    },
+    {
+        "CID": "BACE_1146",
+        "pIC50": 5.8996296,
+        "description": "This candidate compound exhibits a moderate to high affinity for BACE-1, with a pIC50 value of 5.90, suggesting potential efficacy as a BACE-1 inhibitor. However, its relatively high molecular weight (MW 427.93) and moderate lipophilicity (AlogP 2.85) may raise concerns about its pharmacokinetic properties, such as solub"
+    },
+    {
+        "CID": "BACE_1153",
+        "pIC50": 5.8860564,
+        "description": "This candidate compound exhibits a moderate BACE-1 inhibitory activity (pIC50 5.89), suggesting potential as a lead compound for Alzheimer's disease research. However, its pharmacokinetic profile may be limited by its moderate lipophilicity (AlogP 2.56) and relatively high molecular weight (MW 405.50), which could impact its oral bioavailability and brain"
+    }
+]

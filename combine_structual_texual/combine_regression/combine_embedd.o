@@ -1,0 +1,92 @@
+Sender: LSF System <lsfadmin@node04.hs.cluster>
+Subject: Job 18856: <combine_embedd> in cluster <AUHPCGen3> Exited
+
+Job <combine_embedd> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 09:20:56 2026
+Job was executed on host(s) <node04.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 09:20:56 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/combine_structual_texual/combine_regression> was used as the working directory.
+Started at Mon Mar 16 09:20:56 2026
+Terminated at Mon Mar 16 09:20:56 2026
+Results reported at Mon Mar 16 09:20:56 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import KFold
+from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error, root_mean_squared_error
+from sklearn.linear_model import Ridge
+from sklearn.ensemble import RandomForestRegressor
+import xgboost as xgb
+
+
+embedding_structual = "/home/yl9210a-hpc/chem_project/combine_structual_texual/combined_bace_embeddings.json"
+df = pd.read_json(embedding_structual)
+
+# select embedding column
+X = np.vstack(df["combined_embedding"].values)    # shape: (N, D)
+y = df["pIC50"].values
+
+# ---------------------------------------------------
+# Model
+# ---------------------------------------------------
+models = {
+    "Ridge": Ridge(alpha=1.0),
+    "RandomForest": RandomForestRegressor(n_estimators=300, random_state=42, n_jobs=-1),
+    "XGBoost": xgb.XGBRegressor(
+        n_estimators=300,
+        n_jobs=-1,
+        max_depth=6,
+        learning_rate=0.05,
+        subsample=0.8,
+        colsample_bytree=0.8,
+        random_state=42,
+        eval_metric="rmse"   # prevent warning
+    )
+}
+
+# ---------------------------------------------------
+# 3. Cross-validation
+# ---------------------------------------------------
+kf = KFold(n_splits=5, shuffle=True, random_state=42)
+
+results = {name: {"r2": [], "rmse": [], "mae": []} for name in models}
+
+for train_idx, test_idx in kf.split(X):
+    X_train, X_test = X[train_idx], X[test_idx]
+    y_train, y_test = y[train_idx], y[test_idx]
+
+    for name, model in models.items():
+        model.fit(X_train, y_train)
+        pred = model.predict(X_test)
+
+        r2 = r2_score(y_test, pred)
+
+(... more ...)
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   0.04 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   3 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <combine_embedd.e> for stderr output of this job.
+

@@ -1,0 +1,398 @@
+Sender: LSF System <lsfadmin@node04.hs.cluster>
+Subject: Job 18850: <parallel_chemb> in cluster <AUHPCGen3> Done
+
+Job <parallel_chemb> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:16:18 2026
+Job was executed on host(s) <node04.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:16:18 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/chembret_cluster> was used as the working directory.
+Started at Mon Mar 16 08:16:18 2026
+Terminated at Mon Mar 16 08:25:32 2026
+Results reported at Mon Mar 16 08:25:32 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#PBS -N chembreta_parallel_4
+#PBS -q normal
+#PBS -l nodes=1:ppn=128
+#PBS -l mem=180gb
+#PBS -l walltime=06:00:00
+ #PBS -j oe
+ #PBS -o /home/yl9210a-hpc/chem_project/chembret_cluster/logs/chembreta_all.out
+ #PBS -e /home/yl9210a-hpc/chem_project/chembret_cluster/logs/chembreta_all.err
+
+BASE_DIR="/home/yl9210a-hpc/chem_project/chembret_cluster"
+cd $BASE_DIR
+
+mkdir -p logs
+mkdir -p output_chembret
+
+source /home/yl9210a-hpc/chem_project/.venv/bin/activate
+
+echo "[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)..."
+
+TOTAL_PARTS=4
+
+python bace_smiles_to_chembreta_embeddings.py 1 $TOTAL_PARTS > logs/part1.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 2 $TOTAL_PARTS > logs/part2.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 3 $TOTAL_PARTS > logs/part3.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 4 $TOTAL_PARTS > logs/part4.log 2>&1 &
+
+echo "[*] Waiting for all tasks..."
+wait
+
+echo "[*] Combining results..."
+python bace_smiles_to_chembreta_embeddings.py --combine $TOTAL_PARTS > logs/combine.log 2>&1
+
+echo "[*] ALL DONE!"
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   65376.00 sec.
+    Max Memory :                                 4333 MB
+    Average Memory :                             3491.46 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              6
+    Max Threads :                                1283
+    Run time :                                   559 sec.
+    Turnaround time :                            554 sec.
+
+The output (if any) follows:
+
+[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)...
+[*] Waiting for all tasks...
+[*] Combining results...
+[*] ALL DONE!
+
+
+PS:
+
+Read file <parallel_chemb.e> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@node05.hs.cluster>
+Subject: Job 18851: <parallel_chemb> in cluster <AUHPCGen3> Done
+
+Job <parallel_chemb> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:24:31 2026
+Job was executed on host(s) <node05.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:24:31 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/chembret_cluster> was used as the working directory.
+Started at Mon Mar 16 08:24:31 2026
+Terminated at Mon Mar 16 08:31:51 2026
+Results reported at Mon Mar 16 08:31:51 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#PBS -N chembreta_parallel_4
+#PBS -q normal
+#PBS -l nodes=1:ppn=128
+#PBS -l mem=180gb
+#PBS -l walltime=06:00:00
+#PBS -j oe
+#PBS -o /home/yl9210a-hpc/chem_project/chembret_cluster/chembreta_all.$PBS_JOBID.out
+
+BASE_DIR="/home/yl9210a-hpc/chem_project/chembret_cluster"
+cd $BASE_DIR
+
+mkdir -p logs
+mkdir -p output_chembret
+
+source /home/yl9210a-hpc/chem_project/.venv/bin/activate
+
+echo "[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)..."
+
+TOTAL_PARTS=4
+
+python bace_smiles_to_chembreta_embeddings.py 1 $TOTAL_PARTS > logs/part1.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 2 $TOTAL_PARTS > logs/part2.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 3 $TOTAL_PARTS > logs/part3.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 4 $TOTAL_PARTS > logs/part4.log 2>&1 &
+
+echo "[*] Waiting for all tasks..."
+wait
+
+echo "[*] Combining results..."
+python bace_smiles_to_chembreta_embeddings.py --combine $TOTAL_PARTS > logs/combine.log 2>&1
+
+echo "[*] ALL DONE!"
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   52977.00 sec.
+    Max Memory :                                 4289 MB
+    Average Memory :                             3505.20 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              6
+    Max Threads :                                1283
+    Run time :                                   443 sec.
+    Turnaround time :                            440 sec.
+
+The output (if any) follows:
+
+[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)...
+[*] Waiting for all tasks...
+[*] Combining results...
+[*] ALL DONE!
+
+
+PS:
+
+Read file <parallel_chemb.e> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@node01.hs.cluster>
+Subject: Job 18852: <parallel_chemb> in cluster <AUHPCGen3> Done
+
+Job <parallel_chemb> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:32:11 2026
+Job was executed on host(s) <node01.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:32:11 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/chembret_cluster> was used as the working directory.
+Started at Mon Mar 16 08:32:11 2026
+Terminated at Mon Mar 16 08:40:10 2026
+Results reported at Mon Mar 16 08:40:10 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#PBS -N chembreta_parallel_4
+#PBS -q normal
+#PBS -l nodes=1:ppn=128
+#PBS -l mem=180gb
+#PBS -l walltime=06:00:00
+#PBS -j oe
+#PBS -o /home/yl9210a-hpc/chem_project/chembret_cluster/chembreta_all.$PBS_JOBID.out
+
+BASE_DIR="/home/yl9210a-hpc/chem_project/chembret_cluster"
+cd $BASE_DIR
+
+mkdir -p logs
+mkdir -p output_chembret
+
+source /home/yl9210a-hpc/chem_project/.venv/bin/activate
+
+echo "[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)..."
+
+TOTAL_PARTS=4
+
+python bace_smiles_to_chembreta_embeddings.py 1 $TOTAL_PARTS > logs/part1.$PBS_JOBID.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 2 $TOTAL_PARTS > logs/part2.$PBS_JOBID.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 3 $TOTAL_PARTS > logs/part3.$PBS_JOBID.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 4 $TOTAL_PARTS > logs/part4.$PBS_JOBID.log 2>&1 &
+echo "[*] Waiting for all tasks..."
+wait
+
+echo "[*] Combining results..."
+python bace_smiles_to_chembreta_embeddings.py --combine $TOTAL_PARTS > logs/combine.$PBS_JOBID.log 2>&1
+
+echo "[*] ALL DONE!"
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   58060.35 sec.
+    Max Memory :                                 4190 MB
+    Average Memory :                             3548.79 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              6
+    Max Threads :                                1283
+    Run time :                                   485 sec.
+    Turnaround time :                            479 sec.
+
+The output (if any) follows:
+
+[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)...
+[*] Waiting for all tasks...
+[*] Combining results...
+[*] ALL DONE!
+
+
+PS:
+
+Read file <parallel_chemb.e> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@node04.hs.cluster>
+Subject: Job 18853: <parallel_chemb> in cluster <AUHPCGen3> Done
+
+Job <parallel_chemb> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:41:25 2026
+Job was executed on host(s) <node04.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:41:25 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/chembret_cluster> was used as the working directory.
+Started at Mon Mar 16 08:41:25 2026
+Terminated at Mon Mar 16 08:43:16 2026
+Results reported at Mon Mar 16 08:43:16 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#PBS -N chembreta_parallel_4
+#PBS -q normal
+#PBS -l nodes=1:ppn=128
+#PBS -l mem=180gb
+#PBS -l walltime=06:00:00
+#PBS -j oe
+#PBS -o /home/yl9210a-hpc/chem_project/chembret_cluster/chembreta_all.out
+
+BASE_DIR="/home/yl9210a-hpc/chem_project/chembret_cluster"
+cd $BASE_DIR
+
+mkdir -p logs
+mkdir -p output_chembret
+
+source /home/yl9210a-hpc/chem_project/.venv/bin/activate
+
+export PYTHONUNBUFFERED=1
+
+echo "[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)..."
+
+TOTAL_PARTS=4
+
+python bace_smiles_to_chembreta_embeddings.py 1 $TOTAL_PARTS > logs/part1.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 2 $TOTAL_PARTS > logs/part2.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 3 $TOTAL_PARTS > logs/part3.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 4 $TOTAL_PARTS > logs/part4.log 2>&1 &
+echo "[*] Waiting for all tasks..."
+wait
+
+echo "[*] Combining results..."
+python bace_smiles_to_chembreta_embeddings.py --combine $TOTAL_PARTS > logs/combine.log 2>&1
+
+echo "[*] ALL DONE!"
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   11926.72 sec.
+    Max Memory :                                 3185 MB
+    Average Memory :                             2262.17 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              6
+    Max Threads :                                1283
+    Run time :                                   118 sec.
+    Turnaround time :                            111 sec.
+
+The output (if any) follows:
+
+[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)...
+[*] Waiting for all tasks...
+[*] Combining results...
+[*] ALL DONE!
+
+
+PS:
+
+Read file <parallel_chemb.e> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@node01.hs.cluster>
+Subject: Job 18854: <parallel_chemb> in cluster <AUHPCGen3> Done
+
+Job <parallel_chemb> was submitted from host <login01.hs.cluster> by user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:44:53 2026
+Job was executed on host(s) <node01.hs.cluster>, in queue <normal>, as user <yl9210a-hpc> in cluster <AUHPCGen3> at Mon Mar 16 08:44:54 2026
+</home/yl9210a-hpc> was used as the home directory.
+</home/yl9210a-hpc/chem_project/chembret_cluster> was used as the working directory.
+Started at Mon Mar 16 08:44:54 2026
+Terminated at Mon Mar 16 09:03:31 2026
+Results reported at Mon Mar 16 09:03:31 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#PBS -N chembreta_parallel_4
+#PBS -q normal
+#PBS -l nodes=1:ppn=128
+#PBS -l mem=180gb
+#PBS -l walltime=06:00:00
+#PBS -j oe
+#PBS -o /home/yl9210a-hpc/chem_project/chembret_cluster/chembreta_all.out
+
+BASE_DIR="/home/yl9210a-hpc/chem_project/chembret_cluster"
+cd $BASE_DIR
+
+mkdir -p logs
+mkdir -p output_chembret
+
+source /home/yl9210a-hpc/chem_project/.venv/bin/activate
+
+export PYTHONUNBUFFERED=1
+
+echo "[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)..."
+
+TOTAL_PARTS=4
+
+> logs/part1.log
+> logs/part2.log
+> logs/part3.log
+> logs/part4.log
+> logs/combine.log
+
+python bace_smiles_to_chembreta_embeddings.py 1 $TOTAL_PARTS > logs/part1.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 2 $TOTAL_PARTS > logs/part2.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 3 $TOTAL_PARTS > logs/part3.log 2>&1 &
+python bace_smiles_to_chembreta_embeddings.py 4 $TOTAL_PARTS > logs/part4.log 2>&1 &
+echo "[*] Waiting for all tasks..."
+wait
+
+echo "[*] Combining results..."
+python bace_smiles_to_chembreta_embeddings.py --combine $TOTAL_PARTS > logs/combine.log 2>&1
+
+echo "[*] ALL DONE!"
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   138259.47 sec.
+    Max Memory :                                 4572 MB
+    Average Memory :                             4039.67 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              6
+    Max Threads :                                1283
+    Run time :                                   1120 sec.
+    Turnaround time :                            1118 sec.
+
+The output (if any) follows:
+
+[*] Starting 4-way ChemBERTa parallel embedding (BACE mol -> embedding)...
+[*] Waiting for all tasks...
+[*] Combining results...
+[*] ALL DONE!
+
+
+PS:
+
+Read file <parallel_chemb.e> for stderr output of this job.
+
