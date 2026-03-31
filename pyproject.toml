@@ -15,4 +15,6 @@ dependencies = [
     "sentence-transformers>=5.2.2",
     "tqdm>=4.67.3",
     "xgboost>=3.2.0",
+    "matplotlib>=3.10.8",
+    "seaborn>=0.13.2",
 ]
